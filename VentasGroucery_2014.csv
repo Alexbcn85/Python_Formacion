@@ -1,0 +1,318 @@
+Order ID,Product,Category,Unit Price,Quantity,Customer,Ship City,Ship Country,Order Date
+10248,Singaporean Hokkien Fried Mee,Grains/Cereals,"9,8",1,Vins et alcools Chevalier,Reims,France,4/8/2014
+10248,Mozzarella di Giovanni,Dairy Products,"34,8",5,Vins et alcools Chevalier,Reims,France,4/8/2014
+10248,Queso Cabrales,Dairy Products,14,12,Vins et alcools Chevalier,Reims,France,4/8/2014
+10249,Tofu,Produce,"18,6",9,Toms Spezialitäten,Münster,Germany,5/8/2014
+10249,Manjimup Dried Apples,Produce,"42,4",40,Toms Spezialitäten,Münster,Germany,5/8/2014
+10250,Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",15,Hanari Carnes,Rio de Janeiro,Brazil,8/8/2014
+10250,Jack's New England Clam Chowder,Seafood,"7,7",10,Hanari Carnes,Rio de Janeiro,Brazil,8/8/2014
+10250,Manjimup Dried Apples,Produce,"42,4",35,Hanari Carnes,Rio de Janeiro,Brazil,8/8/2014
+10251,Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",20,Victuailles en stock,Lyon,France,8/8/2014
+10251,Gustaf's Knäckebröd,Grains/Cereals,"16,8",6,Victuailles en stock,Lyon,France,8/8/2014
+10251,Ravioli Angelo,Grains/Cereals,"15,6",15,Victuailles en stock,Lyon,France,8/8/2014
+10252,Sir Rodney's Marmalade,Confections,"64,8",40,Suprêmes délices,Charleroi,Belgium,9/8/2014
+10252,Geitost,Dairy Products,2,25,Suprêmes délices,Charleroi,Belgium,9/8/2014
+10252,Camembert Pierrot,Dairy Products,"27,2",40,Suprêmes délices,Charleroi,Belgium,9/8/2014
+10253,Maxilaku,Confections,16,40,Hanari Carnes,Rio de Janeiro,Brazil,10/8/2014
+10253,Chartreuse verte,Beverages,"14,4",42,Hanari Carnes,Rio de Janeiro,Brazil,10/8/2014
+10253,Gorgonzola Telino,Dairy Products,10,20,Hanari Carnes,Rio de Janeiro,Brazil,10/8/2014
+10254,Pâté chinois,Meat/Poultry,"19,2",21,Chop-suey Chinese,Bern,Switzerland,11/8/2014
+10254,Longlife Tofu,Produce,8,21,Chop-suey Chinese,Bern,Switzerland,11/8/2014
+10254,Guaraná Fantástica,Beverages,"3,6",15,Chop-suey Chinese,Bern,Switzerland,11/8/2014
+10255,Raclette Courdavault,Dairy Products,44,30,Richter Supermarkt,Genève,Switzerland,12/8/2014
+10255,Chang,Beverages,"15,2",20,Richter Supermarkt,Genève,Switzerland,12/8/2014
+10255,Pavlova,Confections,"13,9",35,Richter Supermarkt,Genève,Switzerland,12/8/2014
+10255,Inlagd Sill,Seafood,"15,2",25,Richter Supermarkt,Genève,Switzerland,12/8/2014
+10256,Perth Pasties,Meat/Poultry,"26,2",15,Wellington Importadora,Resende,Brazil,15/8/2014
+10256,Original Frankfurter grüne Soße,Condiments,"10,4",12,Wellington Importadora,Resende,Brazil,15/8/2014
+10257,Schoggi Schokolade,Confections,"35,1",25,HILARIÓN-Abastos,San Cristóbal,Venezuela,16/8/2014
+10257,Chartreuse verte,Beverages,"14,4",6,HILARIÓN-Abastos,San Cristóbal,Venezuela,16/8/2014
+10257,Original Frankfurter grüne Soße,Condiments,"10,4",15,HILARIÓN-Abastos,San Cristóbal,Venezuela,16/8/2014
+10258,Chang,Beverages,"15,2",50,Ernst Handel,Graz,Austria,17/8/2014
+10258,Chef Anton's Gumbo Mix,Condiments,17,65,Ernst Handel,Graz,Austria,17/8/2014
+10258,Mascarpone Fabioli,Dairy Products,"25,6",6,Ernst Handel,Graz,Austria,17/8/2014
+10259,Sir Rodney's Scones,Confections,8,10,Centro comercial Moctezuma,México D.F.,Mexico,18/8/2014
+10259,Gravad lax,Seafood,"20,8",1,Centro comercial Moctezuma,México D.F.,Mexico,18/8/2014
+10260,Jack's New England Clam Chowder,Seafood,"7,7",16,Ottilies Käseladen,Köln,Germany,19/8/2014
+10260,Ravioli Angelo,Grains/Cereals,"15,6",50,Ottilies Käseladen,Köln,Germany,19/8/2014
+10260,Tarte au sucre,Confections,"39,4",15,Ottilies Käseladen,Köln,Germany,19/8/2014
+10260,Outback Lager,Beverages,12,21,Ottilies Käseladen,Köln,Germany,19/8/2014
+10261,Sir Rodney's Scones,Confections,8,20,Que Delícia,Rio de Janeiro,Brazil,19/8/2014
+10261,Steeleye Stout,Beverages,"14,4",20,Que Delícia,Rio de Janeiro,Brazil,19/8/2014
+10262,Chef Anton's Gumbo Mix,Condiments,17,12,Rattlesnake Canyon Grocery,Albuquerque,USA,22/8/2014
+10262,Uncle Bob's Organic Dried Pears,Produce,24,15,Rattlesnake Canyon Grocery,Albuquerque,USA,22/8/2014
+10262,Gnocchi di nonna Alice,Grains/Cereals,"30,4",2,Rattlesnake Canyon Grocery,Albuquerque,USA,22/8/2014
+10263,Pavlova,Confections,"13,9",60,Ernst Handel,Graz,Austria,23/8/2014
+10263,Guaraná Fantástica,Beverages,"3,6",28,Ernst Handel,Graz,Austria,23/8/2014
+10263,Nord-Ost Matjeshering,Seafood,"20,7",60,Ernst Handel,Graz,Austria,23/8/2014
+10263,Longlife Tofu,Produce,8,36,Ernst Handel,Graz,Austria,23/8/2014
+10264,Chang,Beverages,"15,2",35,Folk och fä HB,Bräcke,Sweden,24/8/2014
+10264,Jack's New England Clam Chowder,Seafood,"7,7",25,Folk och fä HB,Bräcke,Sweden,24/8/2014
+10265,Alice Mutton,Meat/Poultry,"31,2",30,Blondel père et fils,Strasbourg,France,25/8/2014
+10265,Outback Lager,Beverages,12,20,Blondel père et fils,Strasbourg,France,25/8/2014
+10266,Queso Manchego La Pastora,Dairy Products,"30,4",12,Wartian Herkku,Oulu,Finland,26/8/2014
+10267,Boston Crab Meat,Seafood,"14,7",50,Frankenversand,München,Germany,29/8/2014
+10267,Raclette Courdavault,Dairy Products,44,70,Frankenversand,München,Germany,29/8/2014
+10267,Lakkalikööri,Beverages,"14,4",15,Frankenversand,München,Germany,29/8/2014
+10268,Thüringer Rostbratwurst,Meat/Poultry,99,10,GROSELLA-Restaurante,Caracas,Venezuela,30/8/2014
+10268,Mozzarella di Giovanni,Dairy Products,"27,8",4,GROSELLA-Restaurante,Caracas,Venezuela,30/8/2014
+10269,Geitost,Dairy Products,2,60,White Clover Markets,Seattle,USA,31/8/2014
+10269,Mozzarella di Giovanni,Dairy Products,"27,8",20,White Clover Markets,Seattle,USA,31/8/2014
+10270,Ipoh Coffee,Beverages,"36,8",25,Wartian Herkku,Oulu,Finland,1/9/2014
+10270,Inlagd Sill,Seafood,"15,2",30,Wartian Herkku,Oulu,Finland,1/9/2014
+10271,Geitost,Dairy Products,2,24,Split Rail Beer & Ale,Lander,USA,1/9/2014
+10272,Sir Rodney's Marmalade,Confections,"64,8",6,Rattlesnake Canyon Grocery,Albuquerque,USA,2/9/2014
+10272,Gorgonzola Telino,Dairy Products,10,40,Rattlesnake Canyon Grocery,Albuquerque,USA,2/9/2014
+10272,Mozzarella di Giovanni,Dairy Products,"27,8",24,Rattlesnake Canyon Grocery,Albuquerque,USA,2/9/2014
+10273,Boston Crab Meat,Seafood,"14,7",60,QUICK-Stop,Cunewalde,Germany,5/9/2014
+10273,Geitost,Dairy Products,2,20,QUICK-Stop,Cunewalde,Germany,5/9/2014
+10273,Gorgonzola Telino,Dairy Products,10,15,QUICK-Stop,Cunewalde,Germany,5/9/2014
+10273,Ikura,Seafood,"24,8",24,QUICK-Stop,Cunewalde,Germany,5/9/2014
+10273,Lakkalikööri,Beverages,"14,4",33,QUICK-Stop,Cunewalde,Germany,5/9/2014
+10274,Fløtemysost,Dairy Products,"17,2",20,Vins et alcools Chevalier,Reims,France,6/9/2014
+10274,Mozzarella di Giovanni,Dairy Products,"27,8",7,Vins et alcools Chevalier,Reims,France,6/9/2014
+10275,Guaraná Fantástica,Beverages,"3,6",12,Magazzini Alimentari Riuniti,Bergamo,Italy,7/9/2014
+10275,Raclette Courdavault,Dairy Products,44,6,Magazzini Alimentari Riuniti,Bergamo,Italy,7/9/2014
+10276,Ikura,Seafood,"24,8",15,Tortuga Restaurante,México D.F.,Mexico,8/9/2014
+10276,Konbu,Seafood,"4,8",10,Tortuga Restaurante,México D.F.,Mexico,8/9/2014
+10277,Tarte au sucre,Confections,"39,4",12,Morgenstern Gesundkost,Leipzig,Germany,9/9/2014
+10277,Rössle Sauerkraut,Produce,"36,4",20,Morgenstern Gesundkost,Leipzig,Germany,9/9/2014
+10278,Gula Malacca,Condiments,"15,5",16,Berglunds snabbköp,Luleå,Sweden,12/9/2014
+10278,Raclette Courdavault,Dairy Products,44,15,Berglunds snabbköp,Luleå,Sweden,12/9/2014
+10278,Vegie-spread,Condiments,"35,1",8,Berglunds snabbköp,Luleå,Sweden,12/9/2014
+10278,Röd Kaviar,Seafood,12,25,Berglunds snabbköp,Luleå,Sweden,12/9/2014
+10279,Alice Mutton,Meat/Poultry,"31,2",15,Lehmanns Marktstand,Frankfurt a.M. ,Germany,13/9/2014
+10280,Guaraná Fantástica,Beverages,"3,6",12,Berglunds snabbköp,Luleå,Sweden,14/9/2014
+10280,Pâté chinois,Meat/Poultry,"19,2",20,Berglunds snabbköp,Luleå,Sweden,14/9/2014
+10280,Rhönbräu Klosterbier,Beverages,"6,2",30,Berglunds snabbköp,Luleå,Sweden,14/9/2014
+10281,Teatime Chocolate Biscuits,Confections,"7,3",1,Romero y tomillo,Madrid,Spain,14/9/2014
+10281,Guaraná Fantástica,Beverages,"3,6",6,Romero y tomillo,Madrid,Spain,14/9/2014
+10281,Steeleye Stout,Beverages,"14,4",4,Romero y tomillo,Madrid,Spain,14/9/2014
+10282,Nord-Ost Matjeshering,Seafood,"20,7",6,Romero y tomillo,Madrid,Spain,15/9/2014
+10282,Ravioli Angelo,Grains/Cereals,"15,6",2,Romero y tomillo,Madrid,Spain,15/9/2014
+10283,Genen Shouyu,Condiments,"12,4",20,LILA-Supermercado,Barquisimeto,Venezuela,16/9/2014
+10283,Mozzarella di Giovanni,Dairy Products,"27,8",3,LILA-Supermercado,Barquisimeto,Venezuela,16/9/2014
+10283,Teatime Chocolate Biscuits,Confections,"7,3",18,LILA-Supermercado,Barquisimeto,Venezuela,16/9/2014
+10283,Camembert Pierrot,Dairy Products,"27,2",35,LILA-Supermercado,Barquisimeto,Venezuela,16/9/2014
+10284,Schoggi Schokolade,Confections,"35,1",15,Lehmanns Marktstand,Frankfurt a.M. ,Germany,19/9/2014
+10284,Gula Malacca,Condiments,"15,5",21,Lehmanns Marktstand,Frankfurt a.M. ,Germany,19/9/2014
+10284,Camembert Pierrot,Dairy Products,"27,2",20,Lehmanns Marktstand,Frankfurt a.M. ,Germany,19/9/2014
+10284,Laughing Lumberjack Lager,Beverages,"11,2",5,Lehmanns Marktstand,Frankfurt a.M. ,Germany,19/9/2014
+10285,Perth Pasties,Meat/Poultry,"26,2",36,QUICK-Stop,Cunewalde,Germany,20/9/2014
+10285,Boston Crab Meat,Seafood,"14,7",40,QUICK-Stop,Cunewalde,Germany,20/9/2014
+10285,Chai,Beverages,"14,4",45,QUICK-Stop,Cunewalde,Germany,20/9/2014
+10286,Tarte au sucre,Confections,"39,4",40,QUICK-Stop,Cunewalde,Germany,21/9/2014
+10286,Steeleye Stout,Beverages,"14,4",100,QUICK-Stop,Cunewalde,Germany,21/9/2014
+10287,Pavlova,Confections,"13,9",40,Ricardo Adocicados,Rio de Janeiro,Brazil,22/9/2014
+10287,Sasquatch Ale,Beverages,"11,2",20,Ricardo Adocicados,Rio de Janeiro,Brazil,22/9/2014
+10287,Spegesild,Seafood,"9,6",15,Ricardo Adocicados,Rio de Janeiro,Brazil,22/9/2014
+10288,Scottish Longbreads,Confections,10,3,Reggiani Caseifici,Reggio Emilia,Italy,23/9/2014
+10288,Tourtière,Meat/Poultry,"5,9",10,Reggiani Caseifici,Reggio Emilia,Italy,23/9/2014
+10289,Aniseed Syrup,Condiments,8,30,B's Beverages,London,UK,26/9/2014
+10289,Wimmers gute Semmelknödel,Grains/Cereals,"26,6",9,B's Beverages,London,UK,26/9/2014
+10290,Chef Anton's Gumbo Mix,Condiments,17,20,Comércio Mineiro,São Paulo,Brazil,27/9/2014
+10290,Thüringer Rostbratwurst,Meat/Poultry,99,15,Comércio Mineiro,São Paulo,Brazil,27/9/2014
+10290,Maxilaku,Confections,16,15,Comércio Mineiro,São Paulo,Brazil,27/9/2014
+10290,Original Frankfurter grüne Soße,Condiments,"10,4",10,Comércio Mineiro,São Paulo,Brazil,27/9/2014
+10291,Manjimup Dried Apples,Produce,"42,4",2,Que Delícia,Rio de Janeiro,Brazil,27/9/2014
+10291,Konbu,Seafood,"4,8",20,Que Delícia,Rio de Janeiro,Brazil,27/9/2014
+10291,Gula Malacca,Condiments,"15,5",24,Que Delícia,Rio de Janeiro,Brazil,27/9/2014
+10292,Sir Rodney's Marmalade,Confections,"64,8",20,Tradição Hipermercados,São Paulo,Brazil,28/9/2014
+10293,Carnarvon Tigers,Seafood,50,12,Tortuga Restaurante,México D.F.,Mexico,29/9/2014
+10293,Guaraná Fantástica,Beverages,"3,6",10,Tortuga Restaurante,México D.F.,Mexico,29/9/2014
+10293,Vegie-spread,Condiments,"35,1",5,Tortuga Restaurante,México D.F.,Mexico,29/9/2014
+10293,Rhönbräu Klosterbier,Beverages,"6,2",6,Tortuga Restaurante,México D.F.,Mexico,29/9/2014
+10294,Camembert Pierrot,Dairy Products,"27,2",21,Rattlesnake Canyon Grocery,Albuquerque,USA,30/9/2014
+10294,Rhönbräu Klosterbier,Beverages,"6,2",6,Rattlesnake Canyon Grocery,Albuquerque,USA,30/9/2014
+10294,Ipoh Coffee,Beverages,"36,8",15,Rattlesnake Canyon Grocery,Albuquerque,USA,30/9/2014
+10294,Alice Mutton,Meat/Poultry,"31,2",15,Rattlesnake Canyon Grocery,Albuquerque,USA,30/9/2014
+10294,Chai,Beverages,"14,4",18,Rattlesnake Canyon Grocery,Albuquerque,USA,30/9/2014
+10295,Gnocchi di nonna Alice,Grains/Cereals,"30,4",4,Vins et alcools Chevalier,Reims,France,3/10/2014
+10296,Queso Cabrales,Dairy Products,"16,8",12,LILA-Supermercado,Barquisimeto,Venezuela,4/10/2014
+10296,Pavlova,Confections,"13,9",30,LILA-Supermercado,Barquisimeto,Venezuela,4/10/2014
+10296,Gudbrandsdalsost,Dairy Products,"28,8",15,LILA-Supermercado,Barquisimeto,Venezuela,4/10/2014
+10297,Chartreuse verte,Beverages,"14,4",60,Blondel père et fils,Strasbourg,France,5/10/2014
+10297,Mozzarella di Giovanni,Dairy Products,"27,8",20,Blondel père et fils,Strasbourg,France,5/10/2014
+10298,Chang,Beverages,"15,2",40,Hungry Owl All-Night Grocers,Cork,Ireland,6/10/2014
+10298,Tarte au sucre,Confections,"39,4",15,Hungry Owl All-Night Grocers,Cork,Ireland,6/10/2014
+10298,Raclette Courdavault,Dairy Products,44,30,Hungry Owl All-Night Grocers,Cork,Ireland,6/10/2014
+10298,Inlagd Sill,Seafood,"15,2",40,Hungry Owl All-Night Grocers,Cork,Ireland,6/10/2014
+10299,Teatime Chocolate Biscuits,Confections,"7,3",15,Ricardo Adocicados,Rio de Janeiro,Brazil,7/10/2014
+10299,Outback Lager,Beverages,12,20,Ricardo Adocicados,Rio de Janeiro,Brazil,7/10/2014
+10300,Louisiana Hot Spiced Okra,Condiments,"13,6",30,Magazzini Alimentari Riuniti,Bergamo,Italy,10/10/2014
+10300,Scottish Longbreads,Confections,10,20,Magazzini Alimentari Riuniti,Bergamo,Italy,10/10/2014
+10301,Gnocchi di nonna Alice,Grains/Cereals,"30,4",20,Die Wandernde Kuh,Stuttgart,Germany,10/10/2014
+10301,Boston Crab Meat,Seafood,"14,7",10,Die Wandernde Kuh,Stuttgart,Germany,10/10/2014
+10302,Ipoh Coffee,Beverages,"36,8",12,Suprêmes délices,Charleroi,Belgium,11/10/2014
+10302,Alice Mutton,Meat/Poultry,"31,2",40,Suprêmes délices,Charleroi,Belgium,11/10/2014
+10302,Rössle Sauerkraut,Produce,"36,4",28,Suprêmes délices,Charleroi,Belgium,11/10/2014
+10303,Boston Crab Meat,Seafood,"14,7",40,Godos Cocina Típica,Sevilla,Spain,12/10/2014
+10303,Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",30,Godos Cocina Típica,Sevilla,Spain,12/10/2014
+10303,Scottish Longbreads,Confections,10,15,Godos Cocina Típica,Sevilla,Spain,12/10/2014
+10304,Fløtemysost,Dairy Products,"17,2",2,Tortuga Restaurante,México D.F.,Mexico,13/10/2014
+10304,Raclette Courdavault,Dairy Products,44,10,Tortuga Restaurante,México D.F.,Mexico,13/10/2014
+10304,Maxilaku,Confections,16,30,Tortuga Restaurante,México D.F.,Mexico,13/10/2014
+10305,Thüringer Rostbratwurst,Meat/Poultry,99,25,Old World Delicatessen,Anchorage,USA,14/10/2014
+10305,Chartreuse verte,Beverages,"14,4",30,Old World Delicatessen,Anchorage,USA,14/10/2014
+10305,Carnarvon Tigers,Seafood,50,25,Old World Delicatessen,Anchorage,USA,14/10/2014
+10306,Nord-Ost Matjeshering,Seafood,"20,7",10,Romero y tomillo,Madrid,Spain,17/10/2014
+10306,Perth Pasties,Meat/Poultry,"26,2",10,Romero y tomillo,Madrid,Spain,17/10/2014
+10306,Tourtière,Meat/Poultry,"5,9",5,Romero y tomillo,Madrid,Spain,17/10/2014
+10307,Tarte au sucre,Confections,"39,4",10,Lonesome Pine Restaurant,Portland,USA,18/10/2014
+10307,Scottish Longbreads,Confections,10,3,Lonesome Pine Restaurant,Portland,USA,18/10/2014
+10308,Outback Lager,Beverages,12,5,Ana Trujillo Emparedados y helados,México D.F.,Mexico,19/10/2014
+10308,Gudbrandsdalsost,Dairy Products,"28,8",1,Ana Trujillo Emparedados y helados,México D.F.,Mexico,19/10/2014
+10309,Chef Anton's Cajun Seasoning,Condiments,"17,6",20,Hungry Owl All-Night Grocers,Cork,Ireland,20/10/2014
+10309,Grandma's Boysenberry Spread,Condiments,20,30,Hungry Owl All-Night Grocers,Cork,Ireland,20/10/2014
+10309,Singaporean Hokkien Fried Mee,Grains/Cereals,"11,2",2,Hungry Owl All-Night Grocers,Cork,Ireland,20/10/2014
+10309,Ipoh Coffee,Beverages,"36,8",20,Hungry Owl All-Night Grocers,Cork,Ireland,20/10/2014
+10309,Fløtemysost,Dairy Products,"17,2",3,Hungry Owl All-Night Grocers,Cork,Ireland,20/10/2014
+10310,Pavlova,Confections,"13,9",10,The Big Cheese,Portland,USA,21/10/2014
+10310,Tarte au sucre,Confections,"39,4",5,The Big Cheese,Portland,USA,21/10/2014
+10311,Singaporean Hokkien Fried Mee,Grains/Cereals,"11,2",6,Du monde entier,Nantes,France,21/10/2014
+10311,Gudbrandsdalsost,Dairy Products,"28,8",7,Du monde entier,Nantes,France,21/10/2014
+10312,Rössle Sauerkraut,Produce,"36,4",4,Die Wandernde Kuh,Stuttgart,Germany,24/10/2014
+10312,Ipoh Coffee,Beverages,"36,8",24,Die Wandernde Kuh,Stuttgart,Germany,24/10/2014
+10312,Perth Pasties,Meat/Poultry,"26,2",20,Die Wandernde Kuh,Stuttgart,Germany,24/10/2014
+10312,Rhönbräu Klosterbier,Beverages,"6,2",10,Die Wandernde Kuh,Stuttgart,Germany,24/10/2014
+10313,Inlagd Sill,Seafood,"15,2",12,QUICK-Stop,Cunewalde,Germany,25/10/2014
+10314,Tarte au sucre,Confections,"39,4",25,Rattlesnake Canyon Grocery,Albuquerque,USA,26/10/2014
+10314,Mascarpone Fabioli,Dairy Products,"25,6",40,Rattlesnake Canyon Grocery,Albuquerque,USA,26/10/2014
+10314,Escargots de Bourgogne,Seafood,"10,6",30,Rattlesnake Canyon Grocery,Albuquerque,USA,26/10/2014
+10315,Sasquatch Ale,Beverages,"11,2",14,Island Trading,Cowes,UK,27/10/2014
+10315,Outback Lager,Beverages,12,30,Island Trading,Cowes,UK,27/10/2014
+10316,Jack's New England Clam Chowder,Seafood,"7,7",10,Rattlesnake Canyon Grocery,Albuquerque,USA,28/10/2014
+10316,Tarte au sucre,Confections,"39,4",70,Rattlesnake Canyon Grocery,Albuquerque,USA,28/10/2014
+10317,Chai,Beverages,"14,4",20,Lonesome Pine Restaurant,Portland,USA,31/10/2014
+10318,Jack's New England Clam Chowder,Seafood,"7,7",20,Island Trading,Cowes,UK,1/11/2014
+10318,Lakkalikööri,Beverages,"14,4",6,Island Trading,Cowes,UK,1/11/2014
+10319,Alice Mutton,Meat/Poultry,"31,2",8,Tortuga Restaurante,México D.F.,Mexico,2/11/2014
+10319,Rössle Sauerkraut,Produce,"36,4",14,Tortuga Restaurante,México D.F.,Mexico,2/11/2014
+10319,Lakkalikööri,Beverages,"14,4",30,Tortuga Restaurante,México D.F.,Mexico,2/11/2014
+10320,Fløtemysost,Dairy Products,"17,2",30,Wartian Herkku,Oulu,Finland,3/11/2014
+10321,Steeleye Stout,Beverages,"14,4",10,Island Trading,Cowes,UK,3/11/2014
+10322,Filo Mix,Grains/Cereals,"5,6",20,Pericles Comidas clásicas,México D.F.,Mexico,4/11/2014
+10323,Genen Shouyu,Condiments,"12,4",5,Königlich Essen,Brandenburg,Germany,7/11/2014
+10323,NuNuCa Nuß-Nougat-Creme,Confections,"11,2",4,Königlich Essen,Brandenburg,Germany,7/11/2014
+10323,Chartreuse verte,Beverages,"14,4",4,Königlich Essen,Brandenburg,Germany,7/11/2014
+10324,Pavlova,Confections,"13,9",21,Save-a-lot Markets,Boise,USA,8/11/2014
+10324,Steeleye Stout,Beverages,"14,4",70,Save-a-lot Markets,Boise,USA,8/11/2014
+10324,Spegesild,Seafood,"9,6",30,Save-a-lot Markets,Boise,USA,8/11/2014
+10324,Raclette Courdavault,Dairy Products,44,40,Save-a-lot Markets,Boise,USA,8/11/2014
+10324,Vegie-spread,Condiments,"35,1",80,Save-a-lot Markets,Boise,USA,8/11/2014
+10325,Konbu,Seafood,"4,8",12,Königlich Essen,Brandenburg,Germany,9/11/2014
+10325,Mozzarella di Giovanni,Dairy Products,"27,8",40,Königlich Essen,Brandenburg,Germany,9/11/2014
+10325,Grandma's Boysenberry Spread,Condiments,20,6,Königlich Essen,Brandenburg,Germany,9/11/2014
+10325,Tofu,Produce,"18,6",9,Königlich Essen,Brandenburg,Germany,9/11/2014
+10325,Gorgonzola Telino,Dairy Products,10,4,Königlich Essen,Brandenburg,Germany,9/11/2014
+10326,Chef Anton's Cajun Seasoning,Condiments,"17,6",24,Bólido Comidas preparadas,Madrid,Spain,10/11/2014
+10326,Ravioli Angelo,Grains/Cereals,"15,6",16,Bólido Comidas preparadas,Madrid,Spain,10/11/2014
+10326,Rhönbräu Klosterbier,Beverages,"6,2",50,Bólido Comidas preparadas,Madrid,Spain,10/11/2014
+10327,Queso Cabrales,Dairy Products,"16,8",50,Folk och fä HB,Bräcke,Sweden,11/11/2014
+10327,Nord-Ost Matjeshering,Seafood,"20,7",35,Folk och fä HB,Bräcke,Sweden,11/11/2014
+10327,Chang,Beverages,"15,2",25,Folk och fä HB,Bräcke,Sweden,11/11/2014
+10327,Escargots de Bourgogne,Seafood,"10,6",30,Folk och fä HB,Bräcke,Sweden,11/11/2014
+10328,Raclette Courdavault,Dairy Products,44,9,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,14/11/2014
+10328,Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",40,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,14/11/2014
+10328,Scottish Longbreads,Confections,10,10,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,14/11/2014
+10329,Gnocchi di nonna Alice,Grains/Cereals,"30,4",12,Split Rail Beer & Ale,Lander,USA,15/11/2014
+10329,Teatime Chocolate Biscuits,Confections,"7,3",10,Split Rail Beer & Ale,Lander,USA,15/11/2014
+10329,Nord-Ost Matjeshering,Seafood,"20,7",8,Split Rail Beer & Ale,Lander,USA,15/11/2014
+10329,Côte de Blaye,Beverages,"210,8",20,Split Rail Beer & Ale,Lander,USA,15/11/2014
+10330,Mozzarella di Giovanni,Dairy Products,"27,8",25,LILA-Supermercado,Barquisimeto,Venezuela,16/11/2014
+10330,Gumbär Gummibärchen,Confections,"24,9",50,LILA-Supermercado,Barquisimeto,Venezuela,16/11/2014
+10331,Tourtière,Meat/Poultry,"5,9",15,Bon app',Marseille,France,16/11/2014
+10332,Carnarvon Tigers,Seafood,50,40,Mère Paillarde,Montréal,Canada,17/11/2014
+10332,Singaporean Hokkien Fried Mee,Grains/Cereals,"11,2",10,Mère Paillarde,Montréal,Canada,17/11/2014
+10332,Zaanse koeken,Confections,"7,6",16,Mère Paillarde,Montréal,Canada,17/11/2014
+10333,Fløtemysost,Dairy Products,"17,2",40,Wartian Herkku,Oulu,Finland,18/11/2014
+10333,Tofu,Produce,"18,6",10,Wartian Herkku,Oulu,Finland,18/11/2014
+10333,Sir Rodney's Scones,Confections,8,10,Wartian Herkku,Oulu,Finland,18/11/2014
+10334,Filo Mix,Grains/Cereals,"5,6",8,Victuailles en stock,Lyon,France,21/11/2014
+10334,Scottish Longbreads,Confections,10,10,Victuailles en stock,Lyon,France,21/11/2014
+10335,Chang,Beverages,"15,2",7,Hungry Owl All-Night Grocers,Cork,Ireland,22/11/2014
+10335,Gorgonzola Telino,Dairy Products,10,25,Hungry Owl All-Night Grocers,Cork,Ireland,22/11/2014
+10335,Mascarpone Fabioli,Dairy Products,"25,6",6,Hungry Owl All-Night Grocers,Cork,Ireland,22/11/2014
+10335,Manjimup Dried Apples,Produce,"42,4",48,Hungry Owl All-Night Grocers,Cork,Ireland,22/11/2014
+10336,Chef Anton's Cajun Seasoning,Condiments,"17,6",18,Princesa Isabel Vinhos,Lisboa,Portugal,23/11/2014
+10337,Mozzarella di Giovanni,Dairy Products,"27,8",25,Frankenversand,München,Germany,24/11/2014
+10337,Gravad lax,Seafood,"20,8",28,Frankenversand,München,Germany,24/11/2014
+10337,Tunnbröd,Grains/Cereals,"7,2",40,Frankenversand,München,Germany,24/11/2014
+10337,Gumbär Gummibärchen,Confections,"24,9",24,Frankenversand,München,Germany,24/11/2014
+10337,Inlagd Sill,Seafood,"15,2",20,Frankenversand,München,Germany,24/11/2014
+10338,Alice Mutton,Meat/Poultry,"31,2",20,Old World Delicatessen,Anchorage,USA,25/11/2014
+10338,Nord-Ost Matjeshering,Seafood,"20,7",15,Old World Delicatessen,Anchorage,USA,25/11/2014
+10339,Chef Anton's Cajun Seasoning,Condiments,"17,6",10,Mère Paillarde,Montréal,Canada,28/11/2014
+10339,Alice Mutton,Meat/Poultry,"31,2",70,Mère Paillarde,Montréal,Canada,28/11/2014
+10339,Tarte au sucre,Confections,"39,4",28,Mère Paillarde,Montréal,Canada,28/11/2014
+10340,Carnarvon Tigers,Seafood,50,20,Bon app',Marseille,France,29/11/2014
+10340,Jack's New England Clam Chowder,Seafood,"7,7",12,Bon app',Marseille,France,29/11/2014
+10340,Ipoh Coffee,Beverages,"36,8",40,Bon app',Marseille,France,29/11/2014
+10341,Geitost,Dairy Products,2,8,Simons bistro,København,Denmark,29/11/2014
+10341,Raclette Courdavault,Dairy Products,44,9,Simons bistro,København,Denmark,29/11/2014
+10342,Inlagd Sill,Seafood,"15,2",40,Frankenversand,München,Germany,30/11/2014
+10342,Pâté chinois,Meat/Poultry,"19,2",40,Frankenversand,München,Germany,30/11/2014
+10342,Chang,Beverages,"15,2",24,Frankenversand,München,Germany,30/11/2014
+10342,Gorgonzola Telino,Dairy Products,10,56,Frankenversand,München,Germany,30/11/2014
+10343,Wimmers gute Semmelknödel,Grains/Cereals,"26,6",50,Lehmanns Marktstand,Frankfurt a.M. ,Germany,1/12/2014
+10343,Scottish Longbreads,Confections,10,4,Lehmanns Marktstand,Frankfurt a.M. ,Germany,1/12/2014
+10343,Lakkalikööri,Beverages,"14,4",15,Lehmanns Marktstand,Frankfurt a.M. ,Germany,1/12/2014
+10344,Chef Anton's Cajun Seasoning,Condiments,"17,6",35,White Clover Markets,Seattle,USA,2/12/2014
+10344,Northwoods Cranberry Sauce,Condiments,32,70,White Clover Markets,Seattle,USA,2/12/2014
+10345,Northwoods Cranberry Sauce,Condiments,32,70,QUICK-Stop,Cunewalde,Germany,5/12/2014
+10345,Teatime Chocolate Biscuits,Confections,"7,3",80,QUICK-Stop,Cunewalde,Germany,5/12/2014
+10345,Singaporean Hokkien Fried Mee,Grains/Cereals,"11,2",9,QUICK-Stop,Cunewalde,Germany,5/12/2014
+10346,Alice Mutton,Meat/Poultry,"31,2",36,Rattlesnake Canyon Grocery,Albuquerque,USA,6/12/2014
+10346,Gnocchi di nonna Alice,Grains/Cereals,"30,4",20,Rattlesnake Canyon Grocery,Albuquerque,USA,6/12/2014
+10347,NuNuCa Nuß-Nougat-Creme,Confections,"11,2",10,Familia Arquibaldo,São Paulo,Brazil,7/12/2014
+10347,Chartreuse verte,Beverages,"14,4",50,Familia Arquibaldo,São Paulo,Brazil,7/12/2014
+10347,Boston Crab Meat,Seafood,"14,7",4,Familia Arquibaldo,São Paulo,Brazil,7/12/2014
+10347,Rhönbräu Klosterbier,Beverages,"6,2",6,Familia Arquibaldo,São Paulo,Brazil,7/12/2014
+10348,Chai,Beverages,"14,4",15,Die Wandernde Kuh,Stuttgart,Germany,8/12/2014
+10348,Tunnbröd,Grains/Cereals,"7,2",25,Die Wandernde Kuh,Stuttgart,Germany,8/12/2014
+10349,Tourtière,Meat/Poultry,"5,9",24,Split Rail Beer & Ale,Lander,USA,9/12/2014
+10350,Valkoinen suklaa,Confections,13,15,La maison d'Asie,Toulouse,France,12/12/2014
+10350,Gudbrandsdalsost,Dairy Products,"28,8",18,La maison d'Asie,Toulouse,France,12/12/2014
+10351,Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",10,Ernst Handel,Graz,Austria,12/12/2014
+10351,Côte de Blaye,Beverages,"210,8",20,Ernst Handel,Graz,Austria,12/12/2014
+10351,Jack's New England Clam Chowder,Seafood,"7,7",13,Ernst Handel,Graz,Austria,12/12/2014
+10351,Gula Malacca,Condiments,"15,5",77,Ernst Handel,Graz,Austria,12/12/2014
+10352,Guaraná Fantástica,Beverages,"3,6",10,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,13/12/2014
+10352,Tourtière,Meat/Poultry,"5,9",20,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,13/12/2014
+10353,Queso Cabrales,Dairy Products,"16,8",12,Piccolo und mehr,Salzburg,Austria,14/12/2014
+10353,Côte de Blaye,Beverages,"210,8",50,Piccolo und mehr,Salzburg,Austria,14/12/2014
+10354,Chai,Beverages,"14,4",12,Pericles Comidas clásicas,México D.F.,Mexico,15/12/2014
+10354,Thüringer Rostbratwurst,Meat/Poultry,99,4,Pericles Comidas clásicas,México D.F.,Mexico,15/12/2014
+10355,Guaraná Fantástica,Beverages,"3,6",25,Around the Horn,Colchester,UK,16/12/2014
+10355,Ravioli Angelo,Grains/Cereals,"15,6",25,Around the Horn,Colchester,UK,16/12/2014
+10356,Gorgonzola Telino,Dairy Products,10,30,Die Wandernde Kuh,Stuttgart,Germany,19/12/2014
+10356,Pâté chinois,Meat/Poultry,"19,2",12,Die Wandernde Kuh,Stuttgart,Germany,19/12/2014
+10356,Gudbrandsdalsost,Dairy Products,"28,8",20,Die Wandernde Kuh,Stuttgart,Germany,19/12/2014
+10357,Ikura,Seafood,"24,8",30,LILA-Supermercado,Barquisimeto,Venezuela,20/12/2014
+10357,Gumbär Gummibärchen,Confections,"24,9",16,LILA-Supermercado,Barquisimeto,Venezuela,20/12/2014
+10357,Camembert Pierrot,Dairy Products,"27,2",8,LILA-Supermercado,Barquisimeto,Venezuela,20/12/2014
+10358,Inlagd Sill,Seafood,"15,2",20,La maison d'Asie,Toulouse,France,21/12/2014
+10358,Guaraná Fantástica,Beverages,"3,6",10,La maison d'Asie,Toulouse,France,21/12/2014
+10358,Sasquatch Ale,Beverages,"11,2",10,La maison d'Asie,Toulouse,France,21/12/2014
+10359,Camembert Pierrot,Dairy Products,"27,2",80,Seven Seas Imports,London,UK,22/12/2014
+10359,Pavlova,Confections,"13,9",56,Seven Seas Imports,London,UK,22/12/2014
+10359,Gorgonzola Telino,Dairy Products,10,70,Seven Seas Imports,London,UK,22/12/2014
+10360,Rössle Sauerkraut,Produce,"36,4",30,Blondel père et fils,Strasbourg,France,23/12/2014
+10360,Thüringer Rostbratwurst,Meat/Poultry,99,35,Blondel père et fils,Strasbourg,France,23/12/2014
+10360,Côte de Blaye,Beverages,"210,8",10,Blondel père et fils,Strasbourg,France,23/12/2014
+10360,Maxilaku,Confections,16,35,Blondel père et fils,Strasbourg,France,23/12/2014
+10360,Tourtière,Meat/Poultry,"5,9",28,Blondel père et fils,Strasbourg,France,23/12/2014
+10361,Chartreuse verte,Beverages,"14,4",54,QUICK-Stop,Cunewalde,Germany,23/12/2014
+10361,Camembert Pierrot,Dairy Products,"27,2",55,QUICK-Stop,Cunewalde,Germany,23/12/2014
+10362,Manjimup Dried Apples,Produce,"42,4",20,Bon app',Marseille,France,26/12/2014
+10362,Tourtière,Meat/Poultry,"5,9",24,Bon app',Marseille,France,26/12/2014
+10362,NuNuCa Nuß-Nougat-Creme,Confections,"11,2",50,Bon app',Marseille,France,26/12/2014
+10363,Gorgonzola Telino,Dairy Products,10,20,Drachenblut Delikatessen,Aachen,Germany,27/12/2014
+10363,Rhönbräu Klosterbier,Beverages,"6,2",12,Drachenblut Delikatessen,Aachen,Germany,27/12/2014
+10363,Lakkalikööri,Beverages,"14,4",12,Drachenblut Delikatessen,Aachen,Germany,27/12/2014
+10364,Fløtemysost,Dairy Products,"17,2",5,Eastern Connection,London,UK,27/12/2014
+10364,Gudbrandsdalsost,Dairy Products,"28,8",30,Eastern Connection,London,UK,27/12/2014
+10365,Queso Cabrales,Dairy Products,"16,8",24,Antonio Moreno Taquería,México D.F.,Mexico,28/12/2014
+10366,Original Frankfurter grüne Soße,Condiments,"10,4",5,Galería del gastrónomo,Barcelona,Spain,29/12/2014
+10366,Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",5,Galería del gastrónomo,Barcelona,Spain,29/12/2014
+10367,Sasquatch Ale,Beverages,"11,2",36,Vaffeljernet,Århus,Denmark,29/12/2014

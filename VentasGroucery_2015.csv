@@ -1,0 +1,1041 @@
+Producto,Categoria,Precio,Cantidad,Cliente,Ciudad,Pais,Fecha
+Tourtière,Meat/Poultry,"5,9",18,Vaffeljernet,Århus,Denmark,29/12/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",15,Vaffeljernet,Århus,Denmark,29/12/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",7,Vaffeljernet,Århus,Denmark,29/12/2015
+Sir Rodney's Scones,Confections,8,5,Ernst Handel,Graz,Austria,30/12/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"26,6",35,Ernst Handel,Graz,Austria,30/12/2015
+Rössle Sauerkraut,Produce,"36,4",13,Ernst Handel,Graz,Austria,30/12/2015
+Ravioli Angelo,Grains/Cereals,"15,6",25,Ernst Handel,Graz,Austria,30/12/2015
+Thüringer Rostbratwurst,Meat/Poultry,99,20,Split Rail Beer & Ale,Lander,USA,2/1/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",18,Split Rail Beer & Ale,Lander,USA,2/1/2015
+Chai,Beverages,"14,4",15,Chop-suey Chinese,Bern,Switzerland,3/1/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"26,6",30,Chop-suey Chinese,Bern,Switzerland,3/1/2015
+Longlife Tofu,Produce,8,20,Chop-suey Chinese,Bern,Switzerland,3/1/2015
+Inlagd Sill,Seafood,"15,2",6,La maison d'Asie,Toulouse,France,3/1/2015
+Mozzarella di Giovanni,Dairy Products,"27,8",42,Queen Cozinha,São Paulo,Brazil,4/1/2015
+Camembert Pierrot,Dairy Products,"27,2",70,Queen Cozinha,São Paulo,Brazil,4/1/2015
+Sir Rodney's Marmalade,Confections,"64,8",12,Queen Cozinha,São Paulo,Brazil,4/1/2015
+Côte de Blaye,Beverages,"210,8",40,Queen Cozinha,São Paulo,Brazil,4/1/2015
+Escargots de Bourgogne,Seafood,"10,6",80,Hungry Owl All-Night Grocers,Cork,Ireland,5/1/2015
+Fløtemysost,Dairy Products,"17,2",50,Hungry Owl All-Night Grocers,Cork,Ireland,5/1/2015
+Escargots de Bourgogne,Seafood,"10,6",15,Wolski  Zajazd,Warszawa,Poland,5/1/2015
+Gorgonzola Telino,Dairy Products,10,30,Wolski  Zajazd,Warszawa,Poland,5/1/2015
+Tourtière,Meat/Poultry,"5,9",10,Hungry Coyote Import Store,Elgin,USA,6/1/2015
+Tofu,Produce,"18,6",15,Hungry Coyote Import Store,Elgin,USA,6/1/2015
+Gorgonzola Telino,Dairy Products,10,42,Mère Paillarde,Montréal,Canada,9/1/2015
+Rössle Sauerkraut,Produce,"36,4",20,Seven Seas Imports,London,UK,9/1/2015
+Chartreuse verte,Beverages,"14,4",20,Seven Seas Imports,London,UK,9/1/2015
+Fløtemysost,Dairy Products,"17,2",6,Folk och fä HB,Bräcke,Sweden,10/1/2015
+Vegie-spread,Condiments,"35,1",16,Que Delícia,Rio de Janeiro,Brazil,11/1/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",20,Que Delícia,Rio de Janeiro,Brazil,11/1/2015
+Jack's New England Clam Chowder,Seafood,"7,7",8,Que Delícia,Rio de Janeiro,Brazil,11/1/2015
+Perth Pasties,Meat/Poultry,"26,2",20,Hungry Owl All-Night Grocers,Cork,Ireland,12/1/2015
+Camembert Pierrot,Dairy Products,"27,2",6,Hungry Owl All-Night Grocers,Cork,Ireland,12/1/2015
+Outback Lager,Beverages,12,30,Hungry Owl All-Night Grocers,Cork,Ireland,12/1/2015
+Nord-Ost Matjeshering,Seafood,"20,7",18,Hungry Owl All-Night Grocers,Cork,Ireland,12/1/2015
+Longlife Tofu,Produce,8,14,LILA-Supermercado,Barquisimeto,Venezuela,12/1/2015
+Thüringer Rostbratwurst,Meat/Poultry,99,14,Ernst Handel,Graz,Austria,13/1/2015
+Geitost,Dairy Products,2,60,Ernst Handel,Graz,Austria,13/1/2015
+Carnarvon Tigers,Seafood,50,9,Ernst Handel,Graz,Austria,13/1/2015
+Chef Anton's Gumbo Mix,Condiments,17,32,Ernst Handel,Graz,Austria,13/1/2015
+Longlife Tofu,Produce,8,50,Ernst Handel,Graz,Austria,13/1/2015
+Konbu,Seafood,"4,8",20,Around the Horn,Colchester,UK,16/1/2015
+Valkoinen suklaa,Confections,13,15,Around the Horn,Colchester,UK,16/1/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",20,Around the Horn,Colchester,UK,16/1/2015
+Sir Rodney's Marmalade,Confections,"64,8",28,Berglunds snabbköp,Luleå,Sweden,16/1/2015
+Camembert Pierrot,Dairy Products,"27,2",15,Berglunds snabbköp,Luleå,Sweden,16/1/2015
+Uncle Bob's Organic Dried Pears,Produce,24,10,Split Rail Beer & Ale,Lander,USA,17/1/2015
+Camembert Pierrot,Dairy Products,"27,2",20,Split Rail Beer & Ale,Lander,USA,17/1/2015
+Scottish Longbreads,Confections,10,8,Split Rail Beer & Ale,Lander,USA,17/1/2015
+Guaraná Fantástica,Beverages,"3,6",15,Familia Arquibaldo,São Paulo,Brazil,18/1/2015
+Sasquatch Ale,Beverages,"11,2",10,Familia Arquibaldo,São Paulo,Brazil,18/1/2015
+Guaraná Fantástica,Beverages,"3,6",15,Santé Gourmet,Stavern,Norway,18/1/2015
+Rössle Sauerkraut,Produce,"36,4",6,Santé Gourmet,Stavern,Norway,18/1/2015
+Raclette Courdavault,Dairy Products,44,12,Santé Gourmet,Stavern,Norway,18/1/2015
+Fløtemysost,Dairy Products,"17,2",15,Santé Gourmet,Stavern,Norway,18/1/2015
+Røgede sild,Seafood,"7,6",15,Seven Seas Imports,London,UK,19/1/2015
+Perth Pasties,Meat/Poultry,"26,2",40,Seven Seas Imports,London,UK,19/1/2015
+Filo Mix,Grains/Cereals,"5,6",20,Seven Seas Imports,London,UK,19/1/2015
+Ikura,Seafood,"24,8",16,Bottom-Dollar Markets,Tsawassen,Canada,20/1/2015
+Pâté chinois,Meat/Poultry,"19,2",15,Bottom-Dollar Markets,Tsawassen,Canada,20/1/2015
+Tarte au sucre,Confections,"39,4",20,Bottom-Dollar Markets,Tsawassen,Canada,20/1/2015
+Outback Lager,Beverages,12,30,Bottom-Dollar Markets,Tsawassen,Canada,20/1/2015
+Steeleye Stout,Beverages,"14,4",40,Ernst Handel,Graz,Austria,23/1/2015
+Spegesild,Seafood,"9,6",45,Ernst Handel,Graz,Austria,23/1/2015
+Gorgonzola Telino,Dairy Products,10,60,Ernst Handel,Graz,Austria,23/1/2015
+Mozzarella di Giovanni,Dairy Products,"27,8",24,Ernst Handel,Graz,Austria,23/1/2015
+Konbu,Seafood,"4,8",18,Drachenblut Delikatessen,Aachen,Germany,23/1/2015
+Gudbrandsdalsost,Dairy Products,"28,8",50,Piccolo und mehr,Salzburg,Austria,24/1/2015
+Gorgonzola Telino,Dairy Products,10,32,Save-a-lot Markets,Boise,USA,25/1/2015
+Chang,Beverages,"15,2",25,Save-a-lot Markets,Boise,USA,25/1/2015
+Tofu,Produce,"18,6",42,Save-a-lot Markets,Boise,USA,25/1/2015
+NuNuCa Nuß-Nougat-Creme,Confections,"11,2",7,Save-a-lot Markets,Boise,USA,25/1/2015
+Gumbär Gummibärchen,Confections,"24,9",70,Save-a-lot Markets,Boise,USA,25/1/2015
+Tarte au sucre,Confections,"39,4",10,Hungry Coyote Import Store,Elgin,USA,25/1/2015
+Konbu,Seafood,"4,8",10,Hungry Coyote Import Store,Elgin,USA,25/1/2015
+Spegesild,Seafood,"9,6",28,HILARIÓN-Abastos,San Cristóbal,Venezuela,26/1/2015
+Perth Pasties,Meat/Poultry,"26,2",70,HILARIÓN-Abastos,San Cristóbal,Venezuela,26/1/2015
+Gudbrandsdalsost,Dairy Products,"28,8",8,HILARIÓN-Abastos,San Cristóbal,Venezuela,26/1/2015
+Mozzarella di Giovanni,Dairy Products,"27,8",21,Frankenversand,München,Germany,27/1/2015
+Tunnbröd,Grains/Cereals,"7,2",40,Frankenversand,München,Germany,27/1/2015
+Fløtemysost,Dairy Products,"17,2",60,Frankenversand,München,Germany,27/1/2015
+Sir Rodney's Scones,Confections,8,10,Princesa Isabel Vinhos,Lisboa,Portugal,27/1/2015
+Manjimup Dried Apples,Produce,"42,4",18,Princesa Isabel Vinhos,Lisboa,Portugal,27/1/2015
+Steeleye Stout,Beverages,"14,4",30,Save-a-lot Markets,Boise,USA,30/1/2015
+Pâté chinois,Meat/Poultry,"19,2",120,Save-a-lot Markets,Boise,USA,30/1/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",14,Vaffeljernet,Århus,Denmark,31/1/2015
+Scottish Longbreads,Confections,10,60,Vaffeljernet,Århus,Denmark,31/1/2015
+Fløtemysost,Dairy Products,"17,2",30,Vaffeljernet,Århus,Denmark,31/1/2015
+Lakkalikööri,Beverages,"14,4",35,Vaffeljernet,Århus,Denmark,31/1/2015
+Maxilaku,Confections,16,30,Eastern Connection,London,UK,1/2/2015
+Steeleye Stout,Beverages,"14,4",35,Eastern Connection,London,UK,1/2/2015
+Thüringer Rostbratwurst,Meat/Poultry,99,21,Eastern Connection,London,UK,1/2/2015
+Nord-Ost Matjeshering,Seafood,"20,7",18,Rattlesnake Canyon Grocery,Albuquerque,USA,1/2/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",70,Rattlesnake Canyon Grocery,Albuquerque,USA,1/2/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",20,Rattlesnake Canyon Grocery,Albuquerque,USA,1/2/2015
+Fløtemysost,Dairy Products,"17,2",60,Rattlesnake Canyon Grocery,Albuquerque,USA,1/2/2015
+Vegie-spread,Condiments,"35,1",65,Ernst Handel,Graz,Austria,2/2/2015
+Tunnbröd,Grains/Cereals,"7,2",60,Ernst Handel,Graz,Austria,2/2/2015
+Pavlova,Confections,"13,9",21,Ernst Handel,Graz,Austria,3/2/2015
+Chocolade,Confections,"10,2",70,Ernst Handel,Graz,Austria,3/2/2015
+Gumbär Gummibärchen,Confections,"24,9",30,Magazzini Alimentari Riuniti,Bergamo,Italy,3/2/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,"11,2",40,Magazzini Alimentari Riuniti,Bergamo,Italy,3/2/2015
+Maxilaku,Confections,16,30,Magazzini Alimentari Riuniti,Bergamo,Italy,3/2/2015
+Aniseed Syrup,Condiments,8,50,LINO-Delicateses,I. de Margarita,Venezuela,6/2/2015
+Inlagd Sill,Seafood,"15,2",5,Queen Cozinha,São Paulo,Brazil,7/2/2015
+Rössle Sauerkraut,Produce,"36,4",42,Queen Cozinha,São Paulo,Brazil,7/2/2015
+Sir Rodney's Scones,Confections,8,30,Queen Cozinha,São Paulo,Brazil,7/2/2015
+Chai,Beverages,"14,4",10,Queen Cozinha,São Paulo,Brazil,7/2/2015
+Boston Crab Meat,Seafood,"14,7",2,Queen Cozinha,São Paulo,Brazil,7/2/2015
+Queso Cabrales,Dairy Products,"16,8",30,Ottilies Käseladen,Köln,Germany,7/2/2015
+Gudbrandsdalsost,Dairy Products,"28,8",15,Ottilies Käseladen,Köln,Germany,7/2/2015
+Fløtemysost,Dairy Products,"17,2",15,Ottilies Käseladen,Köln,Germany,7/2/2015
+Tarte au sucre,Confections,"39,4",35,Folies gourmandes,Lille,France,8/2/2015
+Gravad lax,Seafood,"20,8",10,Folies gourmandes,Lille,France,8/2/2015
+Tourtière,Meat/Poultry,"5,9",6,Folies gourmandes,Lille,France,8/2/2015
+Tofu,Produce,"18,6",12,Océano Atlántico Ltda.,Buenos Aires,Argentina,9/2/2015
+Sir Rodney's Scones,Confections,8,12,Océano Atlántico Ltda.,Buenos Aires,Argentina,9/2/2015
+Geitost,Dairy Products,2,49,Bottom-Dollar Markets,Tsawassen,Canada,10/2/2015
+Raclette Courdavault,Dairy Products,44,16,Bottom-Dollar Markets,Tsawassen,Canada,10/2/2015
+Jack's New England Clam Chowder,Seafood,"7,7",25,Bottom-Dollar Markets,Tsawassen,Canada,10/2/2015
+Gula Malacca,Condiments,"15,5",40,Bottom-Dollar Markets,Tsawassen,Canada,10/2/2015
+Raclette Courdavault,Dairy Products,44,9,Bottom-Dollar Markets,Tsawassen,Canada,10/2/2015
+Tofu,Produce,"18,6",20,Wartian Herkku,Oulu,Finland,13/2/2015
+Lakkalikööri,Beverages,"14,4",14,La maison d'Asie,Toulouse,France,14/2/2015
+Tarte au sucre,Confections,"39,4",40,La maison d'Asie,Toulouse,France,14/2/2015
+Chai,Beverages,"14,4",24,La maison d'Asie,Toulouse,France,14/2/2015
+Teatime Chocolate Biscuits,Confections,"7,3",18,Familia Arquibaldo,São Paulo,Brazil,14/2/2015
+Geitost,Dairy Products,2,50,Familia Arquibaldo,São Paulo,Brazil,14/2/2015
+Alice Mutton,Meat/Poultry,"31,2",2,Hungry Coyote Import Store,Elgin,USA,15/2/2015
+Geitost,Dairy Products,2,20,Hungry Coyote Import Store,Elgin,USA,15/2/2015
+Teatime Chocolate Biscuits,Confections,"7,3",20,Wartian Herkku,Oulu,Finland,16/2/2015
+Perth Pasties,Meat/Poultry,"26,2",10,Wartian Herkku,Oulu,Finland,16/2/2015
+Ravioli Angelo,Grains/Cereals,"15,6",20,Wartian Herkku,Oulu,Finland,16/2/2015
+Côte de Blaye,Beverages,"210,8",50,Simons bistro,København,Denmark,16/2/2015
+Spegesild,Seafood,"9,6",2,Simons bistro,København,Denmark,16/2/2015
+Scottish Longbreads,Confections,10,36,Simons bistro,København,Denmark,16/2/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",35,Simons bistro,København,Denmark,16/2/2015
+Sirop d'érable,Condiments,"22,8",16,QUICK-Stop,Cunewalde,Germany,17/2/2015
+Longlife Tofu,Produce,8,15,QUICK-Stop,Cunewalde,Germany,17/2/2015
+Chang,Beverages,"15,2",60,QUICK-Stop,Cunewalde,Germany,17/2/2015
+Zaanse koeken,Confections,"7,6",55,QUICK-Stop,Cunewalde,Germany,17/2/2015
+Gudbrandsdalsost,Dairy Products,"28,8",20,Richter Supermarkt,Genève,Switzerland,20/2/2015
+Camembert Pierrot,Dairy Products,"27,2",60,Richter Supermarkt,Genève,Switzerland,20/2/2015
+Mishi Kobe Niku,Meat/Poultry,"77,6",20,Wellington Importadora,Resende,Brazil,21/2/2015
+Konbu,Seafood,"4,8",2,Wellington Importadora,Resende,Brazil,21/2/2015
+Outback Lager,Beverages,12,8,Wellington Importadora,Resende,Brazil,21/2/2015
+Röd Kaviar,Seafood,12,20,Wellington Importadora,Resende,Brazil,21/2/2015
+Teatime Chocolate Biscuits,Confections,"7,3",4,Que Delícia,Rio de Janeiro,Brazil,21/2/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",10,Que Delícia,Rio de Janeiro,Brazil,21/2/2015
+Gumbär Gummibärchen,Confections,"24,9",30,Que Delícia,Rio de Janeiro,Brazil,21/2/2015
+Perth Pasties,Meat/Poultry,"26,2",15,Que Delícia,Rio de Janeiro,Brazil,21/2/2015
+Gumbär Gummibärchen,Confections,"24,9",2,Franchi S.p.A.,Torino,Italy,22/2/2015
+Gorgonzola Telino,Dairy Products,10,14,Gourmet Lanchonetes,Campinas,Brazil,23/2/2015
+Raclette Courdavault,Dairy Products,44,20,Gourmet Lanchonetes,Campinas,Brazil,23/2/2015
+Scottish Longbreads,Confections,10,30,Mère Paillarde,Montréal,Canada,23/2/2015
+Steeleye Stout,Beverages,"14,4",60,Mère Paillarde,Montréal,Canada,23/2/2015
+Côte de Blaye,Beverages,"210,8",49,Mère Paillarde,Montréal,Canada,23/2/2015
+Lakkalikööri,Beverages,"14,4",20,La maison d'Asie,Toulouse,France,24/2/2015
+Pâté chinois,Meat/Poultry,"19,2",10,La maison d'Asie,Toulouse,France,24/2/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",5,Galería del gastrónomo,Barcelona,Spain,27/2/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"26,6",7,Galería del gastrónomo,Barcelona,Spain,27/2/2015
+Tofu,Produce,"18,6",35,Piccolo und mehr,Salzburg,Austria,27/2/2015
+Spegesild,Seafood,"9,6",20,Reggiani Caseifici,Reggio Emilia,Italy,28/2/2015
+Vegie-spread,Condiments,"35,1",35,Hungry Owl All-Night Grocers,Cork,Ireland,1/3/2015
+Valkoinen suklaa,Confections,13,40,Hungry Owl All-Night Grocers,Cork,Ireland,1/3/2015
+Raclette Courdavault,Dairy Products,44,70,Ernst Handel,Graz,Austria,2/3/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",30,Ernst Handel,Graz,Austria,2/3/2015
+Alice Mutton,Meat/Poultry,"31,2",45,Ernst Handel,Graz,Austria,2/3/2015
+Sir Rodney's Scones,Confections,8,50,Ernst Handel,Graz,Austria,2/3/2015
+Alice Mutton,Meat/Poultry,"31,2",50,Bottom-Dollar Markets,Tsawassen,Canada,2/3/2015
+Boston Crab Meat,Seafood,"14,7",50,Bottom-Dollar Markets,Tsawassen,Canada,2/3/2015
+Zaanse koeken,Confections,"7,6",30,Bottom-Dollar Markets,Tsawassen,Canada,2/3/2015
+Gumbär Gummibärchen,Confections,"24,9",10,Split Rail Beer & Ale,Lander,USA,3/3/2015
+Tourtière,Meat/Poultry,"5,9",40,Split Rail Beer & Ale,Lander,USA,3/3/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",28,Princesa Isabel Vinhos,Lisboa,Portugal,6/3/2015
+Queso Cabrales,Dairy Products,"16,8",6,Folk och fä HB,Bräcke,Sweden,6/3/2015
+Lakkalikööri,Beverages,"14,4",18,Folk och fä HB,Bräcke,Sweden,6/3/2015
+Chang,Beverages,"15,2",10,Consolidated Holdings,London,UK,7/3/2015
+Gustaf's Knäckebröd,Grains/Cereals,"16,8",12,Consolidated Holdings,London,UK,7/3/2015
+Mozzarella di Giovanni,Dairy Products,"27,8",10,Consolidated Holdings,London,UK,7/3/2015
+Spegesild,Seafood,"9,6",5,Blondel père et fils,Strasbourg,France,8/3/2015
+Rhönbräu Klosterbier,Beverages,"6,2",24,Blondel père et fils,Strasbourg,France,8/3/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",40,Blondel père et fils,Strasbourg,France,8/3/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"26,6",30,Blondel père et fils,Strasbourg,France,8/3/2015
+Perth Pasties,Meat/Poultry,"26,2",15,Wartian Herkku,Oulu,Finland,8/3/2015
+Teatime Chocolate Biscuits,Confections,"7,3",15,Toms Spezialitäten,Münster,Germany,9/3/2015
+Sasquatch Ale,Beverages,"11,2",20,Toms Spezialitäten,Münster,Germany,9/3/2015
+Ravioli Angelo,Grains/Cereals,"15,6",15,Toms Spezialitäten,Münster,Germany,9/3/2015
+Pavlova,Confections,"13,9",16,Mère Paillarde,Montréal,Canada,10/3/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"26,6",6,Mère Paillarde,Montréal,Canada,10/3/2015
+Longlife Tofu,Produce,8,30,Mère Paillarde,Montréal,Canada,10/3/2015
+Queso Manchego La Pastora,Dairy Products,"30,4",15,Mère Paillarde,Montréal,Canada,10/3/2015
+Chang,Beverages,"15,2",45,Save-a-lot Markets,Boise,USA,13/3/2015
+Pavlova,Confections,"13,9",49,Save-a-lot Markets,Boise,USA,13/3/2015
+Thüringer Rostbratwurst,Meat/Poultry,99,24,Save-a-lot Markets,Boise,USA,13/3/2015
+Sirop d'érable,Condiments,"22,8",90,Save-a-lot Markets,Boise,USA,13/3/2015
+Schoggi Schokolade,Confections,"35,1",50,Old World Delicatessen,Anchorage,USA,13/3/2015
+Queso Cabrales,Dairy Products,"16,8",30,Ernst Handel,Graz,Austria,14/3/2015
+Tourtière,Meat/Poultry,"5,9",80,Ernst Handel,Graz,Austria,14/3/2015
+Louisiana Hot Spiced Okra,Condiments,"13,6",60,Ernst Handel,Graz,Austria,14/3/2015
+Queso Cabrales,Dairy Products,"16,8",6,Reggiani Caseifici,Reggio Emilia,Italy,15/3/2015
+Rössle Sauerkraut,Produce,"36,4",12,Reggiani Caseifici,Reggio Emilia,Italy,15/3/2015
+Alice Mutton,Meat/Poultry,"31,2",10,Berglunds snabbköp,Luleå,Sweden,15/3/2015
+Gumbär Gummibärchen,Confections,"24,9",15,Berglunds snabbköp,Luleå,Sweden,15/3/2015
+Steeleye Stout,Beverages,"14,4",8,Berglunds snabbköp,Luleå,Sweden,15/3/2015
+Jack's New England Clam Chowder,Seafood,"7,7",30,Berglunds snabbköp,Luleå,Sweden,15/3/2015
+Chartreuse verte,Beverages,"14,4",6,Berglunds snabbköp,Luleå,Sweden,16/3/2015
+Tourtière,Meat/Poultry,"5,9",15,Berglunds snabbköp,Luleå,Sweden,16/3/2015
+Teatime Chocolate Biscuits,Confections,"7,3",12,Toms Spezialitäten,Münster,Germany,17/3/2015
+Guaraná Fantástica,Beverages,"3,6",20,Toms Spezialitäten,Münster,Germany,17/3/2015
+Gorgonzola Telino,Dairy Products,10,3,Toms Spezialitäten,Münster,Germany,17/3/2015
+Filo Mix,Grains/Cereals,"5,6",15,Toms Spezialitäten,Münster,Germany,17/3/2015
+Fløtemysost,Dairy Products,"17,2",2,Ricardo Adocicados,Rio de Janeiro,Brazil,17/3/2015
+Teatime Chocolate Biscuits,Confections,"7,3",40,Ricardo Adocicados,Rio de Janeiro,Brazil,17/3/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",35,Ricardo Adocicados,Rio de Janeiro,Brazil,17/3/2015
+Gumbär Gummibärchen,Confections,"24,9",6,Rancho grande,Buenos Aires,Argentina,20/3/2015
+Boston Crab Meat,Seafood,"14,7",20,Rancho grande,Buenos Aires,Argentina,20/3/2015
+Ikura,Seafood,"24,8",14,Blondel père et fils,Strasbourg,France,21/3/2015
+Filo Mix,Grains/Cereals,"5,6",20,Blondel père et fils,Strasbourg,France,21/3/2015
+Tarte au sucre,Confections,"39,4",35,Blondel père et fils,Strasbourg,France,21/3/2015
+Tourtière,Meat/Poultry,"5,9",6,Victuailles en stock,Lyon,France,22/3/2015
+Ikura,Seafood,"24,8",20,Victuailles en stock,Lyon,France,22/3/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",55,QUICK-Stop,Cunewalde,Germany,22/3/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",28,QUICK-Stop,Cunewalde,Germany,22/3/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"26,6",35,QUICK-Stop,Cunewalde,Germany,22/3/2015
+Pâté chinois,Meat/Poultry,"19,2",120,QUICK-Stop,Cunewalde,Germany,22/3/2015
+Rössle Sauerkraut,Produce,"36,4",15,Save-a-lot Markets,Boise,USA,23/3/2015
+Gula Malacca,Condiments,"15,5",100,Save-a-lot Markets,Boise,USA,23/3/2015
+Chocolade,Confections,"10,2",15,Around the Horn,Colchester,UK,24/3/2015
+Outback Lager,Beverages,12,25,Around the Horn,Colchester,UK,24/3/2015
+Spegesild,Seafood,"9,6",10,La maison d'Asie,Toulouse,France,24/3/2015
+Pavlova,Confections,"13,9",20,La maison d'Asie,Toulouse,France,24/3/2015
+Geitost,Dairy Products,2,20,La maison d'Asie,Toulouse,France,24/3/2015
+Fløtemysost,Dairy Products,"17,2",30,Wartian Herkku,Oulu,Finland,27/3/2015
+Sirop d'érable,Condiments,"22,8",25,Wartian Herkku,Oulu,Finland,27/3/2015
+Chartreuse verte,Beverages,"14,4",20,Wartian Herkku,Oulu,Finland,27/3/2015
+Perth Pasties,Meat/Poultry,"26,2",50,Wartian Herkku,Oulu,Finland,27/3/2015
+Sir Rodney's Scones,Confections,8,40,Königlich Essen,Brandenburg,Germany,28/3/2015
+Maxilaku,Confections,16,21,Königlich Essen,Brandenburg,Germany,28/3/2015
+Raclette Courdavault,Dairy Products,44,36,Königlich Essen,Brandenburg,Germany,28/3/2015
+Gumbär Gummibärchen,Confections,"24,9",30,Suprêmes délices,Charleroi,Belgium,29/3/2015
+Fløtemysost,Dairy Products,"17,2",50,Suprêmes délices,Charleroi,Belgium,29/3/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",15,Suprêmes délices,Charleroi,Belgium,29/3/2015
+Ipoh Coffee,Beverages,"36,8",20,Suprêmes délices,Charleroi,Belgium,29/3/2015
+Rössle Sauerkraut,Produce,"36,4",30,Suprêmes délices,Charleroi,Belgium,29/3/2015
+Uncle Bob's Organic Dried Pears,Produce,24,16,Victuailles en stock,Lyon,France,30/3/2015
+Spegesild,Seafood,"9,6",20,Victuailles en stock,Lyon,France,30/3/2015
+Mozzarella di Giovanni,Dairy Products,"27,8",40,Victuailles en stock,Lyon,France,30/3/2015
+Scottish Longbreads,Confections,10,21,Folk och fä HB,Bräcke,Sweden,31/3/2015
+Rhönbräu Klosterbier,Beverages,"6,2",4,Folk och fä HB,Bräcke,Sweden,31/3/2015
+Sir Rodney's Scones,Confections,8,40,LILA-Supermercado,Barquisimeto,Venezuela,31/3/2015
+Nord-Ost Matjeshering,Seafood,"20,7",28,LILA-Supermercado,Barquisimeto,Venezuela,31/3/2015
+Pâté chinois,Meat/Poultry,"19,2",60,LILA-Supermercado,Barquisimeto,Venezuela,31/3/2015
+Konbu,Seafood,"4,8",1,Consolidated Holdings,London,UK,3/4/2015
+Tunnbröd,Grains/Cereals,"7,2",21,Consolidated Holdings,London,UK,3/4/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,"11,2",50,Suprêmes délices,Charleroi,Belgium,4/4/2015
+Teatime Chocolate Biscuits,Confections,"7,3",21,Suprêmes délices,Charleroi,Belgium,4/4/2015
+Camembert Pierrot,Dairy Products,"27,2",20,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,4/4/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",30,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,4/4/2015
+Chef Anton's Cajun Seasoning,Condiments,"17,6",16,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,4/4/2015
+Ipoh Coffee,Beverages,"36,8",3,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,4/4/2015
+Guaraná Fantástica,Beverages,"3,6",25,Vaffeljernet,Århus,Denmark,5/4/2015
+Thüringer Rostbratwurst,Meat/Poultry,99,18,Vaffeljernet,Århus,Denmark,5/4/2015
+Boston Crab Meat,Seafood,"14,7",20,Vaffeljernet,Århus,Denmark,5/4/2015
+Røgede sild,Seafood,"7,6",30,Vaffeljernet,Århus,Denmark,5/4/2015
+Valkoinen suklaa,Confections,13,25,Vaffeljernet,Århus,Denmark,5/4/2015
+Queso Cabrales,Dairy Products,"16,8",10,Comércio Mineiro,São Paulo,Brazil,6/4/2015
+Spegesild,Seafood,"9,6",5,Comércio Mineiro,São Paulo,Brazil,6/4/2015
+NuNuCa Nuß-Nougat-Creme,Confections,"11,2",12,Magazzini Alimentari Riuniti,Bergamo,Italy,6/4/2015
+Guaraná Fantástica,Beverages,"3,6",28,Magazzini Alimentari Riuniti,Bergamo,Italy,6/4/2015
+Nord-Ost Matjeshering,Seafood,"20,7",8,Königlich Essen,Brandenburg,Germany,7/4/2015
+Ipoh Coffee,Beverages,"36,8",15,Königlich Essen,Brandenburg,Germany,7/4/2015
+Gula Malacca,Condiments,"15,5",2,White Clover Markets,Seattle,USA,10/4/2015
+Chang,Beverages,"15,2",40,White Clover Markets,Seattle,USA,10/4/2015
+Pavlova,Confections,"13,9",35,White Clover Markets,Seattle,USA,10/4/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"26,6",8,Bon app',Marseille,France,11/4/2015
+Carnarvon Tigers,Seafood,50,30,Bon app',Marseille,France,11/4/2015
+Tunnbröd,Grains/Cereals,"7,2",15,Bon app',Marseille,France,11/4/2015
+Uncle Bob's Organic Dried Pears,Produce,24,30,B's Beverages,London,UK,11/4/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",20,B's Beverages,London,UK,11/4/2015
+Guaraná Fantástica,Beverages,"3,6",80,Seven Seas Imports,London,UK,12/4/2015
+Manjimup Dried Apples,Produce,"42,4",18,Seven Seas Imports,London,UK,12/4/2015
+Geitost,Dairy Products,2,12,Island Trading,Cowes,UK,13/4/2015
+Fløtemysost,Dairy Products,"17,2",12,Island Trading,Cowes,UK,13/4/2015
+Tofu,Produce,"18,6",12,Pericles Comidas clásicas,México D.F.,Mexico,13/4/2015
+Rössle Sauerkraut,Produce,"36,4",18,Pericles Comidas clásicas,México D.F.,Mexico,13/4/2015
+Boston Crab Meat,Seafood,"14,7",21,Pericles Comidas clásicas,México D.F.,Mexico,13/4/2015
+Rhönbräu Klosterbier,Beverages,"6,2",10,Pericles Comidas clásicas,México D.F.,Mexico,13/4/2015
+Lakkalikööri,Beverages,"14,4",42,Suprêmes délices,Charleroi,Belgium,14/4/2015
+Gorgonzola Telino,Dairy Products,10,35,Suprêmes délices,Charleroi,Belgium,14/4/2015
+Louisiana Hot Spiced Okra,Condiments,"13,6",60,Suprêmes délices,Charleroi,Belgium,14/4/2015
+Outback Lager,Beverages,12,12,HILARIÓN-Abastos,San Cristóbal,Venezuela,17/4/2015
+Pâté chinois,Meat/Poultry,"19,2",2,HILARIÓN-Abastos,San Cristóbal,Venezuela,17/4/2015
+Chai,Beverages,"14,4",15,Princesa Isabel Vinhos,Lisboa,Portugal,17/4/2015
+Sir Rodney's Scones,Confections,8,21,Princesa Isabel Vinhos,Lisboa,Portugal,17/4/2015
+Chartreuse verte,Beverages,"14,4",20,Princesa Isabel Vinhos,Lisboa,Portugal,17/4/2015
+Ikura,Seafood,"24,8",20,Victuailles en stock,Lyon,France,18/4/2015
+Perth Pasties,Meat/Poultry,"26,2",28,Rattlesnake Canyon Grocery,Albuquerque,USA,19/4/2015
+Raclette Courdavault,Dairy Products,44,60,Rattlesnake Canyon Grocery,Albuquerque,USA,19/4/2015
+Côte de Blaye,Beverages,"210,8",30,Rattlesnake Canyon Grocery,Albuquerque,USA,19/4/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"26,6",30,Rattlesnake Canyon Grocery,Albuquerque,USA,19/4/2015
+Zaanse koeken,Confections,"7,6",30,Folies gourmandes,Lille,France,20/4/2015
+Raclette Courdavault,Dairy Products,44,12,Folies gourmandes,Lille,France,20/4/2015
+Maxilaku,Confections,16,24,Ricardo Adocicados,Rio de Janeiro,Brazil,20/4/2015
+Camembert Pierrot,Dairy Products,"27,2",40,Ricardo Adocicados,Rio de Janeiro,Brazil,20/4/2015
+Boston Crab Meat,Seafood,"14,7",10,Lazy K Kountry Store,Walla Walla,USA,21/4/2015
+Sasquatch Ale,Beverages,"11,2",35,White Clover Markets,Seattle,USA,24/4/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",30,White Clover Markets,Seattle,USA,24/4/2015
+Boston Crab Meat,Seafood,"14,7",10,B's Beverages,London,UK,24/4/2015
+Manjimup Dried Apples,Produce,"42,4",3,B's Beverages,London,UK,24/4/2015
+Sir Rodney's Scones,Confections,8,14,B's Beverages,London,UK,24/4/2015
+Outback Lager,Beverages,12,60,LINO-Delicateses,I. de Margarita,Venezuela,25/4/2015
+Chang,Beverages,"15,2",20,LINO-Delicateses,I. de Margarita,Venezuela,25/4/2015
+Aniseed Syrup,Condiments,8,20,LINO-Delicateses,I. de Margarita,Venezuela,25/4/2015
+Pâté chinois,Meat/Poultry,"19,2",30,LINO-Delicateses,I. de Margarita,Venezuela,25/4/2015
+Longlife Tofu,Produce,8,16,HILARIÓN-Abastos,San Cristóbal,Venezuela,26/4/2015
+Queso Cabrales,Dairy Products,"16,8",5,HILARIÓN-Abastos,San Cristóbal,Venezuela,26/4/2015
+Manjimup Dried Apples,Produce,"42,4",25,HILARIÓN-Abastos,San Cristóbal,Venezuela,26/4/2015
+Teatime Chocolate Biscuits,Confections,"7,3",5,Queen Cozinha,São Paulo,Brazil,26/4/2015
+Gumbär Gummibärchen,Confections,"24,9",30,Queen Cozinha,São Paulo,Brazil,26/4/2015
+Tourtière,Meat/Poultry,"5,9",24,Queen Cozinha,São Paulo,Brazil,26/4/2015
+Raclette Courdavault,Dairy Products,44,30,Frankenversand,München,Germany,27/4/2015
+Röd Kaviar,Seafood,12,20,Frankenversand,München,Germany,27/4/2015
+Queso Cabrales,Dairy Products,"16,8",15,Piccolo und mehr,Salzburg,Austria,28/4/2015
+Pavlova,Confections,"13,9",18,Piccolo und mehr,Salzburg,Austria,28/4/2015
+Raclette Courdavault,Dairy Products,44,60,HILARIÓN-Abastos,San Cristóbal,Venezuela,1/5/2015
+Scottish Longbreads,Confections,10,30,HILARIÓN-Abastos,San Cristóbal,Venezuela,1/5/2015
+Rhönbräu Klosterbier,Beverages,"6,2",36,HILARIÓN-Abastos,San Cristóbal,Venezuela,1/5/2015
+Gula Malacca,Condiments,"15,5",15,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,1/5/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",7,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,1/5/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,"11,2",20,Bottom-Dollar Markets,Tsawassen,Canada,2/5/2015
+NuNuCa Nuß-Nougat-Creme,Confections,"11,2",60,Bottom-Dollar Markets,Tsawassen,Canada,2/5/2015
+Gudbrandsdalsost,Dairy Products,"28,8",10,La maison d'Asie,Toulouse,France,3/5/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"16,8",15,La maison d'Asie,Toulouse,France,3/5/2015
+Louisiana Hot Spiced Okra,Condiments,"13,6",10,La maison d'Asie,Toulouse,France,3/5/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",30,Comércio Mineiro,São Paulo,Brazil,3/5/2015
+Tunnbröd,Grains/Cereals,"7,2",10,Laughing Bacchus Wine Cellars,Vancouver,Canada,4/5/2015
+Jack's New England Clam Chowder,Seafood,"7,7",20,Laughing Bacchus Wine Cellars,Vancouver,Canada,4/5/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",5,Laughing Bacchus Wine Cellars,Vancouver,Canada,4/5/2015
+Gorgonzola Telino,Dairy Products,10,20,Tradição Hipermercados,São Paulo,Brazil,5/5/2015
+Gnocchi di nonna Alice,Grains/Cereals,"30,4",14,Lehmanns Marktstand,Frankfurt a.M. ,Germany,5/5/2015
+Original Frankfurter grüne Soße,Condiments,"10,4",25,Lehmanns Marktstand,Frankfurt a.M. ,Germany,5/5/2015
+Mozzarella di Giovanni,Dairy Products,"27,8",25,Lehmanns Marktstand,Frankfurt a.M. ,Germany,5/5/2015
+Guaraná Fantástica,Beverages,"4,5",14,HILARIÓN-Abastos,San Cristóbal,Venezuela,8/5/2015
+Boston Crab Meat,Seafood,"18,4",5,HILARIÓN-Abastos,San Cristóbal,Venezuela,8/5/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,30,HILARIÓN-Abastos,San Cristóbal,Venezuela,8/5/2015
+Rössle Sauerkraut,Produce,"45,6",20,LILA-Supermercado,Barquisimeto,Venezuela,9/5/2015
+Maxilaku,Confections,20,25,LILA-Supermercado,Barquisimeto,Venezuela,9/5/2015
+Genen Shouyu,Condiments,"15,5",12,La maison d'Asie,Toulouse,France,10/5/2015
+Rössle Sauerkraut,Produce,"45,6",8,La maison d'Asie,Toulouse,France,10/5/2015
+Tourtière,Meat/Poultry,"7,45",20,Blauer See Delikatessen,Mannheim,Germany,10/5/2015
+Røgede sild,Seafood,"9,5",21,Pericles Comidas clásicas,México D.F.,Mexico,11/5/2015
+Perth Pasties,Meat/Poultry,"32,8",6,Pericles Comidas clásicas,México D.F.,Mexico,11/5/2015
+Laughing Lumberjack Lager,Beverages,14,30,Pericles Comidas clásicas,México D.F.,Mexico,11/5/2015
+Tofu,Produce,"23,25",70,Hungry Owl All-Night Grocers,Cork,Ireland,12/5/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",20,Hungry Owl All-Night Grocers,Cork,Ireland,12/5/2015
+Chang,Beverages,19,12,White Clover Markets,Seattle,USA,12/5/2015
+Sirop d'érable,Condiments,"28,5",25,White Clover Markets,Seattle,USA,12/5/2015
+Perth Pasties,Meat/Poultry,"32,8",10,White Clover Markets,Seattle,USA,12/5/2015
+Sir Rodney's Scones,Confections,10,12,White Clover Markets,Seattle,USA,12/5/2015
+Tarte au sucre,Confections,"49,3",3,Mère Paillarde,Montréal,Canada,15/5/2015
+NuNuCa Nuß-Nougat-Creme,Confections,14,18,Königlich Essen,Brandenburg,Germany,16/5/2015
+Outback Lager,Beverages,15,14,Königlich Essen,Brandenburg,Germany,16/5/2015
+Ipoh Coffee,Beverages,46,15,Antonio Moreno Taquería,México D.F.,Mexico,16/5/2015
+Chocolade,Confections,"12,75",15,Antonio Moreno Taquería,México D.F.,Mexico,16/5/2015
+Konbu,Seafood,6,10,Ottilies Käseladen,Köln,Germany,17/5/2015
+Chartreuse verte,Beverages,18,10,Ottilies Käseladen,Köln,Germany,17/5/2015
+Rössle Sauerkraut,Produce,"45,6",3,Blauer See Delikatessen,Mannheim,Germany,18/5/2015
+Thüringer Rostbratwurst,Meat/Poultry,"123,79",36,Save-a-lot Markets,Boise,USA,19/5/2015
+Rhönbräu Klosterbier,Beverages,"7,75",36,Save-a-lot Markets,Boise,USA,19/5/2015
+Chef Anton's Cajun Seasoning,Condiments,22,50,Bon app',Marseille,France,19/5/2015
+Uncle Bob's Organic Dried Pears,Produce,30,50,Bon app',Marseille,France,19/5/2015
+Northwoods Cranberry Sauce,Condiments,40,10,Bon app',Marseille,France,19/5/2015
+Guaraná Fantástica,Beverages,"4,5",10,Familia Arquibaldo,São Paulo,Brazil,22/5/2015
+Camembert Pierrot,Dairy Products,34,12,Familia Arquibaldo,São Paulo,Brazil,22/5/2015
+Zaanse koeken,Confections,"9,5",6,Familia Arquibaldo,São Paulo,Brazil,22/5/2015
+Spegesild,Seafood,12,9,Familia Arquibaldo,São Paulo,Brazil,22/5/2015
+Sir Rodney's Scones,Confections,10,40,Die Wandernde Kuh,Stuttgart,Germany,23/5/2015
+Mascarpone Fabioli,Dairy Products,32,50,Die Wandernde Kuh,Stuttgart,Germany,23/5/2015
+Sirop d'érable,Condiments,"28,5",15,Die Wandernde Kuh,Stuttgart,Germany,23/5/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,70,Ernst Handel,Graz,Austria,23/5/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",39,Ernst Handel,Graz,Austria,23/5/2015
+Rössle Sauerkraut,Produce,"45,6",35,Ernst Handel,Graz,Austria,23/5/2015
+Sir Rodney's Marmalade,Confections,81,39,Ernst Handel,Graz,Austria,23/5/2015
+Rhönbräu Klosterbier,Beverages,"7,75",50,Ernst Handel,Graz,Austria,23/5/2015
+Mishi Kobe Niku,Meat/Poultry,97,16,QUICK-Stop,Cunewalde,Germany,24/5/2015
+Pavlova,Confections,"17,45",50,QUICK-Stop,Cunewalde,Germany,24/5/2015
+Schoggi Schokolade,Confections,"43,9",120,QUICK-Stop,Cunewalde,Germany,24/5/2015
+Geitost,Dairy Products,"2,5",16,QUICK-Stop,Cunewalde,Germany,24/5/2015
+Camembert Pierrot,Dairy Products,34,84,QUICK-Stop,Cunewalde,Germany,24/5/2015
+Carnarvon Tigers,Seafood,"62,5",25,Hungry Owl All-Night Grocers,Cork,Ireland,25/5/2015
+Jack's New England Clam Chowder,Seafood,"9,65",80,Hungry Owl All-Night Grocers,Cork,Ireland,25/5/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,20,Hungry Owl All-Night Grocers,Cork,Ireland,25/5/2015
+Filo Mix,Grains/Cereals,7,6,North/South,London,UK,25/5/2015
+Raclette Courdavault,Dairy Products,55,4,North/South,London,UK,25/5/2015
+Outback Lager,Beverages,15,6,North/South,London,UK,25/5/2015
+Guaraná Fantástica,Beverages,"4,5",5,Tortuga Restaurante,México D.F.,Mexico,26/5/2015
+Côte de Blaye,Beverages,"263,5",15,Tortuga Restaurante,México D.F.,Mexico,26/5/2015
+Gula Malacca,Condiments,"19,45",9,Tortuga Restaurante,México D.F.,Mexico,26/5/2015
+Ikura,Seafood,31,16,Chop-suey Chinese,Bern,Switzerland,29/5/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,40,Chop-suey Chinese,Bern,Switzerland,29/5/2015
+Camembert Pierrot,Dairy Products,34,10,Chop-suey Chinese,Bern,Switzerland,29/5/2015
+Guaraná Fantástica,Beverages,"4,5",8,Santé Gourmet,Stavern,Norway,30/5/2015
+Perth Pasties,Meat/Poultry,"32,8",5,Santé Gourmet,Stavern,Norway,30/5/2015
+Scottish Longbreads,Confections,"12,5",6,Cactus Comidas para llevar,Buenos Aires,Argentina,30/5/2015
+Steeleye Stout,Beverages,18,3,Cactus Comidas para llevar,Buenos Aires,Argentina,30/5/2015
+Jack's New England Clam Chowder,Seafood,"9,65",10,Cactus Comidas para llevar,Buenos Aires,Argentina,30/5/2015
+Boston Crab Meat,Seafood,"18,4",25,Lehmanns Marktstand,Frankfurt a.M. ,Germany,31/5/2015
+Nord-Ost Matjeshering,Seafood,"25,89",20,Lehmanns Marktstand,Frankfurt a.M. ,Germany,31/5/2015
+Chai,Beverages,18,40,Lehmanns Marktstand,Frankfurt a.M. ,Germany,31/5/2015
+Northwoods Cranberry Sauce,Condiments,40,24,Lehmanns Marktstand,Frankfurt a.M. ,Germany,31/5/2015
+Alice Mutton,Meat/Poultry,39,25,Seven Seas Imports,London,UK,1/6/2015
+Sir Rodney's Marmalade,Confections,81,15,Seven Seas Imports,London,UK,1/6/2015
+Gravad lax,Seafood,26,18,Seven Seas Imports,London,UK,1/6/2015
+Jack's New England Clam Chowder,Seafood,"9,65",6,Seven Seas Imports,London,UK,1/6/2015
+Ikura,Seafood,31,2,Berglunds snabbköp,Luleå,Sweden,1/6/2015
+Nord-Ost Matjeshering,Seafood,"25,89",10,Berglunds snabbköp,Luleå,Sweden,1/6/2015
+Ipoh Coffee,Beverages,46,60,Berglunds snabbköp,Luleå,Sweden,1/6/2015
+Tourtière,Meat/Poultry,"7,45",15,Berglunds snabbköp,Luleå,Sweden,1/6/2015
+Inlagd Sill,Seafood,19,30,Bon app',Marseille,France,2/6/2015
+Boston Crab Meat,Seafood,"18,4",15,Bon app',Marseille,France,2/6/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,30,Wartian Herkku,Oulu,Finland,5/6/2015
+Chai,Beverages,18,8,Wartian Herkku,Oulu,Finland,5/6/2015
+Konbu,Seafood,6,10,Wartian Herkku,Oulu,Finland,5/6/2015
+Inlagd Sill,Seafood,19,30,QUICK-Stop,Cunewalde,Germany,5/6/2015
+Chef Anton's Cajun Seasoning,Condiments,22,50,QUICK-Stop,Cunewalde,Germany,5/6/2015
+Queso Cabrales,Dairy Products,21,3,Great Lakes Food Market,Eugene,USA,6/6/2015
+Geitost,Dairy Products,"2,5",8,Great Lakes Food Market,Eugene,USA,6/6/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",9,Great Lakes Food Market,Eugene,USA,6/6/2015
+Gudbrandsdalsost,Dairy Products,36,10,Maison Dewey,Bruxelles,Belgium,7/6/2015
+Pâté chinois,Meat/Poultry,24,14,Maison Dewey,Bruxelles,Belgium,7/6/2015
+Scottish Longbreads,Confections,"12,5",20,Maison Dewey,Bruxelles,Belgium,7/6/2015
+Lakkalikööri,Beverages,18,50,Piccolo und mehr,Salzburg,Austria,8/6/2015
+Sirop d'érable,Condiments,"28,5",20,Piccolo und mehr,Salzburg,Austria,8/6/2015
+Alice Mutton,Meat/Poultry,39,40,Piccolo und mehr,Salzburg,Austria,8/6/2015
+Ipoh Coffee,Beverages,46,25,Piccolo und mehr,Salzburg,Austria,8/6/2015
+Raclette Courdavault,Dairy Products,55,2,Océano Atlántico Ltda.,Buenos Aires,Argentina,8/6/2015
+Louisiana Hot Spiced Okra,Condiments,17,24,Eastern Connection,London,UK,9/6/2015
+Nord-Ost Matjeshering,Seafood,"25,89",15,Eastern Connection,London,UK,9/6/2015
+Röd Kaviar,Seafood,15,24,Folk och fä HB,Bräcke,Sweden,12/6/2015
+Chef Anton's Cajun Seasoning,Condiments,22,50,Folk och fä HB,Bräcke,Sweden,12/6/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",24,Folk och fä HB,Bräcke,Sweden,12/6/2015
+Nord-Ost Matjeshering,Seafood,"25,89",10,Lehmanns Marktstand,Frankfurt a.M. ,Germany,12/6/2015
+Boston Crab Meat,Seafood,"18,4",10,Lehmanns Marktstand,Frankfurt a.M. ,Germany,12/6/2015
+Tourtière,Meat/Poultry,"7,45",10,Lehmanns Marktstand,Frankfurt a.M. ,Germany,12/6/2015
+Queso Cabrales,Dairy Products,21,50,Antonio Moreno Taquería,México D.F.,Mexico,13/6/2015
+Boston Crab Meat,Seafood,"18,4",10,Antonio Moreno Taquería,México D.F.,Mexico,13/6/2015
+Ravioli Angelo,Grains/Cereals,"19,5",5,Antonio Moreno Taquería,México D.F.,Mexico,13/6/2015
+Raclette Courdavault,Dairy Products,55,15,Antonio Moreno Taquería,México D.F.,Mexico,13/6/2015
+Queso Manchego La Pastora,Dairy Products,38,15,Lehmanns Marktstand,Frankfurt a.M. ,Germany,14/6/2015
+Gorgonzola Telino,Dairy Products,"12,5",20,Lehmanns Marktstand,Frankfurt a.M. ,Germany,14/6/2015
+Geitost,Dairy Products,"2,5",30,Lehmanns Marktstand,Frankfurt a.M. ,Germany,14/6/2015
+Camembert Pierrot,Dairy Products,34,35,Lehmanns Marktstand,Frankfurt a.M. ,Germany,14/6/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",21,Richter Supermarkt,Genève,Switzerland,14/6/2015
+Röd Kaviar,Seafood,15,9,Richter Supermarkt,Genève,Switzerland,14/6/2015
+Manjimup Dried Apples,Produce,53,6,Richter Supermarkt,Genève,Switzerland,14/6/2015
+Gorgonzola Telino,Dairy Products,"12,5",30,Richter Supermarkt,Genève,Switzerland,14/6/2015
+Escargots de Bourgogne,Seafood,"13,25",20,Richter Supermarkt,Genève,Switzerland,14/6/2015
+Outback Lager,Beverages,15,7,B's Beverages,London,UK,15/6/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",1,B's Beverages,London,UK,15/6/2015
+Maxilaku,Confections,20,6,B's Beverages,London,UK,16/6/2015
+Konbu,Seafood,6,8,B's Beverages,London,UK,16/6/2015
+Sir Rodney's Scones,Confections,10,15,B's Beverages,London,UK,16/6/2015
+Geitost,Dairy Products,"2,5",15,B's Beverages,London,UK,16/6/2015
+Scottish Longbreads,Confections,"12,5",35,QUICK-Stop,Cunewalde,Germany,19/6/2015
+Côte de Blaye,Beverages,"263,5",30,QUICK-Stop,Cunewalde,Germany,19/6/2015
+Aniseed Syrup,Condiments,10,60,QUICK-Stop,Cunewalde,Germany,19/6/2015
+Gumbär Gummibärchen,Confections,"31,23",40,QUICK-Stop,Cunewalde,Germany,19/6/2015
+Guaraná Fantástica,Beverages,"4,5",35,Hanari Carnes,Rio de Janeiro,Brazil,19/6/2015
+Côte de Blaye,Beverages,"263,5",4,Hanari Carnes,Rio de Janeiro,Brazil,19/6/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",36,Hanari Carnes,Rio de Janeiro,Brazil,19/6/2015
+Fløtemysost,Dairy Products,"21,5",9,Hanari Carnes,Rio de Janeiro,Brazil,19/6/2015
+Queso Cabrales,Dairy Products,21,15,Königlich Essen,Brandenburg,Germany,20/6/2015
+Tourtière,Meat/Poultry,"7,45",24,Königlich Essen,Brandenburg,Germany,20/6/2015
+Queso Manchego La Pastora,Dairy Products,38,30,LILA-Supermercado,Barquisimeto,Venezuela,21/6/2015
+Tunnbröd,Grains/Cereals,9,70,LILA-Supermercado,Barquisimeto,Venezuela,21/6/2015
+Rössle Sauerkraut,Produce,"45,6",7,Lonesome Pine Restaurant,Portland,USA,21/6/2015
+Laughing Lumberjack Lager,Beverages,14,7,Lonesome Pine Restaurant,Portland,USA,21/6/2015
+Queso Cabrales,Dairy Products,21,10,Lazy K Kountry Store,Walla Walla,USA,22/6/2015
+Tarte au sucre,Confections,"49,3",40,Victuailles en stock,Lyon,France,23/6/2015
+Uncle Bob's Organic Dried Pears,Produce,30,10,Victuailles en stock,Lyon,France,23/6/2015
+Steeleye Stout,Beverages,18,30,Victuailles en stock,Lyon,France,23/6/2015
+Mascarpone Fabioli,Dairy Products,32,24,Seven Seas Imports,London,UK,23/6/2015
+Inlagd Sill,Seafood,19,60,Seven Seas Imports,London,UK,23/6/2015
+Sasquatch Ale,Beverages,14,10,Toms Spezialitäten,Münster,Germany,26/6/2015
+Jack's New England Clam Chowder,Seafood,"9,65",14,Toms Spezialitäten,Münster,Germany,26/6/2015
+Gorgonzola Telino,Dairy Products,"12,5",55,QUICK-Stop,Cunewalde,Germany,27/6/2015
+Røgede sild,Seafood,"9,5",100,QUICK-Stop,Cunewalde,Germany,27/6/2015
+Manjimup Dried Apples,Produce,53,48,QUICK-Stop,Cunewalde,Germany,27/6/2015
+Sir Rodney's Scones,Confections,10,6,Godos Cocina Típica,Sevilla,Spain,28/6/2015
+Sirop d'érable,Condiments,"28,5",10,Godos Cocina Típica,Sevilla,Spain,28/6/2015
+Alice Mutton,Meat/Poultry,39,8,Godos Cocina Típica,Sevilla,Spain,28/6/2015
+Teatime Chocolate Biscuits,Confections,"9,2",10,Godos Cocina Típica,Sevilla,Spain,28/6/2015
+Pavlova,Confections,"17,45",40,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,28/6/2015
+Steeleye Stout,Beverages,18,20,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,28/6/2015
+Gula Malacca,Condiments,"19,45",40,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,28/6/2015
+Gudbrandsdalsost,Dairy Products,36,18,HILARIÓN-Abastos,San Cristóbal,Venezuela,29/6/2015
+Rhönbräu Klosterbier,Beverages,"7,75",30,HILARIÓN-Abastos,San Cristóbal,Venezuela,29/6/2015
+Pavlova,Confections,"17,45",14,Wartian Herkku,Oulu,Finland,30/6/2015
+Steeleye Stout,Beverages,18,6,Wartian Herkku,Oulu,Finland,30/6/2015
+Gustaf's Knäckebröd,Grains/Cereals,21,24,Wartian Herkku,Oulu,Finland,30/6/2015
+Queso Cabrales,Dairy Products,21,15,Wartian Herkku,Oulu,Finland,30/6/2015
+Gorgonzola Telino,Dairy Products,"12,5",30,Wartian Herkku,Oulu,Finland,30/6/2015
+Original Frankfurter grüne Soße,Condiments,13,10,Ottilies Käseladen,Köln,Germany,30/6/2015
+Pavlova,Confections,"17,45",30,Ottilies Käseladen,Köln,Germany,30/6/2015
+Tunnbröd,Grains/Cereals,9,20,Ottilies Käseladen,Köln,Germany,30/6/2015
+Tarte au sucre,Confections,"49,3",20,Ottilies Käseladen,Köln,Germany,30/6/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,40,Save-a-lot Markets,Boise,USA,3/7/2015
+Manjimup Dried Apples,Produce,53,20,Save-a-lot Markets,Boise,USA,3/7/2015
+Guaraná Fantástica,Beverages,"4,5",18,Save-a-lot Markets,Boise,USA,3/7/2015
+Tofu,Produce,"23,25",30,Save-a-lot Markets,Boise,USA,3/7/2015
+Teatime Chocolate Biscuits,Confections,"9,2",35,Save-a-lot Markets,Boise,USA,3/7/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",24,Simons bistro,København,Denmark,4/7/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"33,25",30,Lehmanns Marktstand,Frankfurt a.M. ,Germany,4/7/2015
+Rhönbräu Klosterbier,Beverages,"7,75",20,Lehmanns Marktstand,Frankfurt a.M. ,Germany,4/7/2015
+Zaanse koeken,Confections,"9,5",25,Around the Horn,Colchester,UK,5/7/2015
+Manjimup Dried Apples,Produce,53,20,Around the Horn,Colchester,UK,5/7/2015
+Filo Mix,Grains/Cereals,7,30,Around the Horn,Colchester,UK,5/7/2015
+Perth Pasties,Meat/Poultry,"32,8",18,Around the Horn,Colchester,UK,5/7/2015
+Röd Kaviar,Seafood,15,3,Around the Horn,Colchester,UK,5/7/2015
+Jack's New England Clam Chowder,Seafood,"9,65",12,Blondel père et fils,Strasbourg,France,6/7/2015
+Pâté chinois,Meat/Poultry,24,18,Blondel père et fils,Strasbourg,France,6/7/2015
+Tarte au sucre,Confections,"49,3",15,Frankenversand,München,Germany,7/7/2015
+Nord-Ost Matjeshering,Seafood,"25,89",20,Frankenversand,München,Germany,7/7/2015
+Manjimup Dried Apples,Produce,53,50,Folk och fä HB,Bräcke,Sweden,7/7/2015
+Gula Malacca,Condiments,"19,45",10,Folk och fä HB,Bräcke,Sweden,7/7/2015
+Geitost,Dairy Products,"2,5",20,Reggiani Caseifici,Reggio Emilia,Italy,10/7/2015
+Tarte au sucre,Confections,"49,3",10,Reggiani Caseifici,Reggio Emilia,Italy,10/7/2015
+Inlagd Sill,Seafood,19,25,Ricardo Adocicados,Rio de Janeiro,Brazil,11/7/2015
+Filo Mix,Grains/Cereals,7,70,Ricardo Adocicados,Rio de Janeiro,Brazil,11/7/2015
+Gorgonzola Telino,Dairy Products,"12,5",6,Rattlesnake Canyon Grocery,Albuquerque,USA,11/7/2015
+Pâté chinois,Meat/Poultry,24,25,Rattlesnake Canyon Grocery,Albuquerque,USA,11/7/2015
+Alice Mutton,Meat/Poultry,39,16,Rattlesnake Canyon Grocery,Albuquerque,USA,11/7/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"33,25",18,Mère Paillarde,Montréal,Canada,12/7/2015
+Guaraná Fantástica,Beverages,"4,5",25,Mère Paillarde,Montréal,Canada,12/7/2015
+Queso Cabrales,Dairy Products,21,35,Blondel père et fils,Strasbourg,France,13/7/2015
+Carnarvon Tigers,Seafood,"62,5",18,Blondel père et fils,Strasbourg,France,13/7/2015
+Lakkalikööri,Beverages,18,10,Blondel père et fils,Strasbourg,France,13/7/2015
+Manjimup Dried Apples,Produce,53,3,Hungry Owl All-Night Grocers,Cork,Ireland,13/7/2015
+Raclette Courdavault,Dairy Products,55,40,Hungry Owl All-Night Grocers,Cork,Ireland,13/7/2015
+Gorgonzola Telino,Dairy Products,"12,5",60,Hungry Owl All-Night Grocers,Cork,Ireland,13/7/2015
+Ikura,Seafood,31,5,Galería del gastrónomo,Barcelona,Spain,14/7/2015
+Gorgonzola Telino,Dairy Products,"12,5",35,Rattlesnake Canyon Grocery,Albuquerque,USA,17/7/2015
+Lakkalikööri,Beverages,18,30,Rattlesnake Canyon Grocery,Albuquerque,USA,17/7/2015
+Queso Cabrales,Dairy Products,21,15,Mère Paillarde,Montréal,Canada,18/7/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,60,Mère Paillarde,Montréal,Canada,18/7/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,28,Ernst Handel,Graz,Austria,18/7/2015
+Tofu,Produce,"23,25",11,Ernst Handel,Graz,Austria,18/7/2015
+Rhönbräu Klosterbier,Beverages,"7,75",15,Berglunds snabbköp,Luleå,Sweden,19/7/2015
+Boston Crab Meat,Seafood,"18,4",50,Berglunds snabbköp,Luleå,Sweden,19/7/2015
+Pavlova,Confections,"17,45",12,Berglunds snabbköp,Luleå,Sweden,19/7/2015
+Mascarpone Fabioli,Dairy Products,32,10,Berglunds snabbköp,Luleå,Sweden,19/7/2015
+Alice Mutton,Meat/Poultry,39,18,Antonio Moreno Taquería,México D.F.,Mexico,20/7/2015
+Sasquatch Ale,Beverages,14,40,Antonio Moreno Taquería,México D.F.,Mexico,20/7/2015
+Perth Pasties,Meat/Poultry,"32,8",25,Antonio Moreno Taquería,México D.F.,Mexico,20/7/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"33,25",6,Trail's Head Gourmet Provisioners,Kirkland,USA,20/7/2015
+Tarte au sucre,Confections,"49,3",10,Trail's Head Gourmet Provisioners,Kirkland,USA,20/7/2015
+Boston Crab Meat,Seafood,"18,4",2,Trail's Head Gourmet Provisioners,Kirkland,USA,20/7/2015
+Geitost,Dairy Products,"2,5",14,Trail's Head Gourmet Provisioners,Kirkland,USA,20/7/2015
+Vegie-spread,Condiments,"43,9",6,Morgenstern Gesundkost,Leipzig,Germany,21/7/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",30,Morgenstern Gesundkost,Leipzig,Germany,21/7/2015
+Lakkalikööri,Beverages,18,10,Morgenstern Gesundkost,Leipzig,Germany,21/7/2015
+Raclette Courdavault,Dairy Products,55,12,Morgenstern Gesundkost,Leipzig,Germany,21/7/2015
+Gorgonzola Telino,Dairy Products,"12,5",20,Tortuga Restaurante,México D.F.,Mexico,24/7/2015
+Gula Malacca,Condiments,"19,45",21,Tortuga Restaurante,México D.F.,Mexico,24/7/2015
+Chai,Beverages,18,10,Tortuga Restaurante,México D.F.,Mexico,24/7/2015
+Rhönbräu Klosterbier,Beverages,"7,75",20,Trail's Head Gourmet Provisioners,Kirkland,USA,24/7/2015
+Original Frankfurter grüne Soße,Condiments,13,18,Trail's Head Gourmet Provisioners,Kirkland,USA,24/7/2015
+Chartreuse verte,Beverages,18,10,Trail's Head Gourmet Provisioners,Kirkland,USA,24/7/2015
+Steeleye Stout,Beverages,18,20,B's Beverages,London,UK,25/7/2015
+Ravioli Angelo,Grains/Cereals,"19,5",6,B's Beverages,London,UK,25/7/2015
+Genen Shouyu,Condiments,"15,5",10,Let's Stop N Shop,San Francisco,USA,26/7/2015
+Rhönbräu Klosterbier,Beverages,"7,75",21,Let's Stop N Shop,San Francisco,USA,26/7/2015
+Tofu,Produce,"23,25",15,Ottilies Käseladen,Köln,Germany,27/7/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",30,Ottilies Käseladen,Köln,Germany,27/7/2015
+Jack's New England Clam Chowder,Seafood,"9,65",9,Ottilies Käseladen,Köln,Germany,27/7/2015
+Rhönbräu Klosterbier,Beverages,"7,75",50,Familia Arquibaldo,São Paulo,Brazil,27/7/2015
+Ravioli Angelo,Grains/Cereals,"19,5",4,Blauer See Delikatessen,Mannheim,Germany,28/7/2015
+Lakkalikööri,Beverages,18,14,Blauer See Delikatessen,Mannheim,Germany,28/7/2015
+Gudbrandsdalsost,Dairy Products,36,10,Wartian Herkku,Oulu,Finland,31/7/2015
+Thüringer Rostbratwurst,Meat/Poultry,"123,79",10,Wartian Herkku,Oulu,Finland,31/7/2015
+Camembert Pierrot,Dairy Products,34,24,Wartian Herkku,Oulu,Finland,31/7/2015
+Gorgonzola Telino,Dairy Products,"12,5",50,Blondel père et fils,Strasbourg,France,31/7/2015
+Zaanse koeken,Confections,"9,5",15,Wellington Importadora,Resende,Brazil,1/8/2015
+Filo Mix,Grains/Cereals,7,4,Reggiani Caseifici,Reggio Emilia,Italy,2/8/2015
+Gumbär Gummibärchen,Confections,"31,23",6,Que Delícia,Rio de Janeiro,Brazil,2/8/2015
+Steeleye Stout,Beverages,18,20,Que Delícia,Rio de Janeiro,Brazil,2/8/2015
+Original Frankfurter grüne Soße,Condiments,13,20,Que Delícia,Rio de Janeiro,Brazil,2/8/2015
+Carnarvon Tigers,Seafood,"62,5",40,QUICK-Stop,Cunewalde,Germany,3/8/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,100,QUICK-Stop,Cunewalde,Germany,3/8/2015
+Steeleye Stout,Beverages,18,4,Great Lakes Food Market,Eugene,USA,4/8/2015
+Original Frankfurter grüne Soße,Condiments,13,60,Mère Paillarde,Montréal,Canada,7/8/2015
+Chai,Beverages,18,20,Mère Paillarde,Montréal,Canada,7/8/2015
+Aniseed Syrup,Condiments,10,14,Vaffeljernet,Århus,Denmark,7/8/2015
+Uncle Bob's Organic Dried Pears,Produce,30,10,Vaffeljernet,Århus,Denmark,7/8/2015
+Tourtière,Meat/Poultry,"7,45",50,Vaffeljernet,Århus,Denmark,7/8/2015
+Genen Shouyu,Condiments,"15,5",25,Lehmanns Marktstand,Frankfurt a.M. ,Germany,8/8/2015
+Gumbär Gummibärchen,Confections,"31,23",5,Lehmanns Marktstand,Frankfurt a.M. ,Germany,8/8/2015
+Sir Rodney's Marmalade,Confections,81,21,Lehmanns Marktstand,Frankfurt a.M. ,Germany,9/8/2015
+Gudbrandsdalsost,Dairy Products,36,20,Lehmanns Marktstand,Frankfurt a.M. ,Germany,9/8/2015
+Lakkalikööri,Beverages,18,4,Lehmanns Marktstand,Frankfurt a.M. ,Germany,9/8/2015
+Filo Mix,Grains/Cereals,7,24,Old World Delicatessen,Anchorage,USA,9/8/2015
+Escargots de Bourgogne,Seafood,"13,25",30,Old World Delicatessen,Anchorage,USA,9/8/2015
+Steeleye Stout,Beverages,18,30,Ernst Handel,Graz,Austria,10/8/2015
+Sirop d'érable,Condiments,"28,5",120,Ernst Handel,Graz,Austria,10/8/2015
+Gudbrandsdalsost,Dairy Products,36,65,Ernst Handel,Graz,Austria,10/8/2015
+Vegie-spread,Condiments,"43,9",24,White Clover Markets,Seattle,USA,11/8/2015
+Rhönbräu Klosterbier,Beverages,"7,75",30,White Clover Markets,Seattle,USA,11/8/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,5,White Clover Markets,Seattle,USA,11/8/2015
+Guaraná Fantástica,Beverages,"4,5",35,Piccolo und mehr,Salzburg,Austria,11/8/2015
+Ravioli Angelo,Grains/Cereals,"19,5",20,Piccolo und mehr,Salzburg,Austria,11/8/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",12,Piccolo und mehr,Salzburg,Austria,11/8/2015
+Schoggi Schokolade,Confections,"43,9",50,Rattlesnake Canyon Grocery,Albuquerque,USA,14/8/2015
+Fløtemysost,Dairy Products,"21,5",9,Rattlesnake Canyon Grocery,Albuquerque,USA,14/8/2015
+Tarte au sucre,Confections,"49,3",10,B's Beverages,London,UK,15/8/2015
+Röd Kaviar,Seafood,15,30,Hungry Coyote Import Store,Elgin,USA,16/8/2015
+Tourtière,Meat/Poultry,"7,45",4,Hungry Coyote Import Store,Elgin,USA,16/8/2015
+Konbu,Seafood,6,60,HILARIÓN-Abastos,San Cristóbal,Venezuela,16/8/2015
+Raclette Courdavault,Dairy Products,55,35,HILARIÓN-Abastos,San Cristóbal,Venezuela,16/8/2015
+Original Frankfurter grüne Soße,Condiments,13,5,Vaffeljernet,Århus,Denmark,17/8/2015
+Gustaf's Knäckebröd,Grains/Cereals,21,48,Save-a-lot Markets,Boise,USA,18/8/2015
+Maxilaku,Confections,20,25,Save-a-lot Markets,Boise,USA,18/8/2015
+Chocolade,Confections,"12,75",6,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,18/8/2015
+Lakkalikööri,Beverages,18,10,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,18/8/2015
+Raclette Courdavault,Dairy Products,55,20,Mère Paillarde,Montréal,Canada,21/8/2015
+Camembert Pierrot,Dairy Products,34,70,Mère Paillarde,Montréal,Canada,21/8/2015
+Fløtemysost,Dairy Products,"21,5",15,Mère Paillarde,Montréal,Canada,21/8/2015
+Pavlova,Confections,"17,45",30,Mère Paillarde,Montréal,Canada,21/8/2015
+Chef Anton's Cajun Seasoning,Condiments,22,20,Tradição Hipermercados,São Paulo,Brazil,22/8/2015
+Pâté chinois,Meat/Poultry,24,20,Tradição Hipermercados,São Paulo,Brazil,22/8/2015
+Tarte au sucre,Confections,"49,3",10,Tradição Hipermercados,São Paulo,Brazil,22/8/2015
+Geitost,Dairy Products,"2,5",14,Save-a-lot Markets,Boise,USA,22/8/2015
+Boston Crab Meat,Seafood,"18,4",42,Save-a-lot Markets,Boise,USA,22/8/2015
+Alice Mutton,Meat/Poultry,39,100,Save-a-lot Markets,Boise,USA,22/8/2015
+Uncle Bob's Organic Dried Pears,Produce,30,45,Save-a-lot Markets,Boise,USA,22/8/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",12,Save-a-lot Markets,Boise,USA,22/8/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,28,Toms Spezialitäten,Münster,Germany,23/8/2015
+Chai,Beverages,18,3,Du monde entier,Nantes,France,24/8/2015
+Ikura,Seafood,31,10,Du monde entier,Nantes,France,24/8/2015
+Sir Rodney's Scones,Confections,10,6,Du monde entier,Nantes,France,24/8/2015
+Inlagd Sill,Seafood,19,21,La maison d'Asie,Toulouse,France,25/8/2015
+Chai,Beverages,18,6,Wolski  Zajazd,Warszawa,Poland,25/8/2015
+Camembert Pierrot,Dairy Products,34,15,Wolski  Zajazd,Warszawa,Poland,25/8/2015
+Chang,Beverages,19,10,Wolski  Zajazd,Warszawa,Poland,25/8/2015
+Ikura,Seafood,31,70,Save-a-lot Markets,Boise,USA,28/8/2015
+Inlagd Sill,Seafood,19,55,Save-a-lot Markets,Boise,USA,28/8/2015
+Maxilaku,Confections,20,18,Save-a-lot Markets,Boise,USA,28/8/2015
+Camembert Pierrot,Dairy Products,34,40,Save-a-lot Markets,Boise,USA,28/8/2015
+Lakkalikööri,Beverages,18,80,Save-a-lot Markets,Boise,USA,28/8/2015
+Konbu,Seafood,6,8,HILARIÓN-Abastos,San Cristóbal,Venezuela,29/8/2015
+Rhönbräu Klosterbier,Beverages,"7,75",40,HILARIÓN-Abastos,San Cristóbal,Venezuela,29/8/2015
+Sir Rodney's Scones,Confections,10,8,Blauer See Delikatessen,Mannheim,Germany,29/8/2015
+Chartreuse verte,Beverages,18,5,Blauer See Delikatessen,Mannheim,Germany,29/8/2015
+Queso Cabrales,Dairy Products,21,14,Blauer See Delikatessen,Mannheim,Germany,29/8/2015
+Pâté chinois,Meat/Poultry,24,5,Wilman Kala,Helsinki,Finland,30/8/2015
+Fløtemysost,Dairy Products,"21,5",15,Great Lakes Food Market,Eugene,USA,31/8/2015
+Côte de Blaye,Beverages,"263,5",15,Great Lakes Food Market,Eugene,USA,31/8/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,14,Great Lakes Food Market,Eugene,USA,31/8/2015
+Outback Lager,Beverages,15,15,Great Lakes Food Market,Eugene,USA,31/8/2015
+Raclette Courdavault,Dairy Products,55,30,Great Lakes Food Market,Eugene,USA,31/8/2015
+Grandma's Boysenberry Spread,Condiments,25,70,Mère Paillarde,Montréal,Canada,1/9/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,20,Mère Paillarde,Montréal,Canada,1/9/2015
+Scottish Longbreads,Confections,"12,5",15,Mère Paillarde,Montréal,Canada,1/9/2015
+Sir Rodney's Scones,Confections,10,42,Mère Paillarde,Montréal,Canada,4/9/2015
+Gustaf's Knäckebröd,Grains/Cereals,21,40,Mère Paillarde,Montréal,Canada,4/9/2015
+Filo Mix,Grains/Cereals,7,5,Laughing Bacchus Wine Cellars,Vancouver,Canada,5/9/2015
+Guaraná Fantástica,Beverages,"4,5",5,Laughing Bacchus Wine Cellars,Vancouver,Canada,5/9/2015
+Fløtemysost,Dairy Products,"21,5",15,Island Trading,Cowes,UK,5/9/2015
+Outback Lager,Beverages,15,20,Island Trading,Cowes,UK,5/9/2015
+Teatime Chocolate Biscuits,Confections,"9,2",5,Island Trading,Cowes,UK,5/9/2015
+Tunnbröd,Grains/Cereals,9,10,Island Trading,Cowes,UK,5/9/2015
+Chang,Beverages,19,20,Ricardo Adocicados,Rio de Janeiro,Brazil,6/9/2015
+Scottish Longbreads,Confections,"12,5",18,Ricardo Adocicados,Rio de Janeiro,Brazil,6/9/2015
+Sir Rodney's Scones,Confections,10,25,Frankenversand,München,Germany,7/9/2015
+Guaraná Fantástica,Beverages,"4,5",3,Frankenversand,München,Germany,7/9/2015
+Tofu,Produce,"23,25",21,Frankenversand,München,Germany,7/9/2015
+Teatime Chocolate Biscuits,Confections,"9,2",15,Frankenversand,München,Germany,7/9/2015
+Steeleye Stout,Beverages,18,30,Frankenversand,München,Germany,7/9/2015
+Rössle Sauerkraut,Produce,"45,6",10,The Cracker Box,Butte,USA,7/9/2015
+Thüringer Rostbratwurst,Meat/Poultry,"123,79",6,The Cracker Box,Butte,USA,7/9/2015
+Gula Malacca,Condiments,"19,45",10,The Cracker Box,Butte,USA,7/9/2015
+Camembert Pierrot,Dairy Products,34,10,Ana Trujillo Emparedados y helados,México D.F.,Mexico,8/9/2015
+Tofu,Produce,"23,25",3,Ana Trujillo Emparedados y helados,México D.F.,Mexico,8/9/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,5,Ana Trujillo Emparedados y helados,México D.F.,Mexico,8/9/2015
+Fløtemysost,Dairy Products,"21,5",20,Berglunds snabbköp,Luleå,Sweden,11/9/2015
+Perth Pasties,Meat/Poultry,"32,8",12,Berglunds snabbköp,Luleå,Sweden,11/9/2015
+Camembert Pierrot,Dairy Products,34,20,Berglunds snabbköp,Luleå,Sweden,11/9/2015
+Tarte au sucre,Confections,"49,3",15,Save-a-lot Markets,Boise,USA,11/9/2015
+Röd Kaviar,Seafood,15,35,Save-a-lot Markets,Boise,USA,11/9/2015
+Chai,Beverages,18,25,Blondel père et fils,Strasbourg,France,12/9/2015
+Thüringer Rostbratwurst,Meat/Poultry,"123,79",20,Godos Cocina Típica,Sevilla,Spain,12/9/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"33,25",9,Godos Cocina Típica,Sevilla,Spain,12/9/2015
+Pâté chinois,Meat/Poultry,24,12,Königlich Essen,Brandenburg,Germany,13/9/2015
+Lakkalikööri,Beverages,18,35,Königlich Essen,Brandenburg,Germany,13/9/2015
+Rhönbräu Klosterbier,Beverages,"7,75",8,La maison d'Asie,Toulouse,France,14/9/2015
+Chang,Beverages,19,30,Die Wandernde Kuh,Stuttgart,Germany,14/9/2015
+Geitost,Dairy Products,"2,5",20,Die Wandernde Kuh,Stuttgart,Germany,14/9/2015
+Queso Manchego La Pastora,Dairy Products,38,36,Ernst Handel,Graz,Austria,15/9/2015
+Konbu,Seafood,6,13,Ernst Handel,Graz,Austria,15/9/2015
+Gumbär Gummibärchen,Confections,"31,23",35,Ernst Handel,Graz,Austria,15/9/2015
+Tarte au sucre,Confections,"49,3",80,Ernst Handel,Graz,Austria,15/9/2015
+Uncle Bob's Organic Dried Pears,Produce,30,35,Folies gourmandes,Lille,France,15/9/2015
+Rhönbräu Klosterbier,Beverages,"7,75",2,Folies gourmandes,Lille,France,15/9/2015
+Carnarvon Tigers,Seafood,"62,5",50,Folies gourmandes,Lille,France,15/9/2015
+Manjimup Dried Apples,Produce,53,15,Folies gourmandes,Lille,France,15/9/2015
+Chef Anton's Cajun Seasoning,Condiments,22,10,Magazzini Alimentari Riuniti,Bergamo,Italy,18/9/2015
+Chef Anton's Gumbo Mix,Condiments,"21,35",15,Magazzini Alimentari Riuniti,Bergamo,Italy,18/9/2015
+Gustaf's Knäckebröd,Grains/Cereals,21,40,Magazzini Alimentari Riuniti,Bergamo,Italy,18/9/2015
+Escargots de Bourgogne,Seafood,"13,25",6,Wartian Herkku,Oulu,Finland,19/9/2015
+Chef Anton's Cajun Seasoning,Condiments,22,25,Wartian Herkku,Oulu,Finland,19/9/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,60,Queen Cozinha,São Paulo,Brazil,19/9/2015
+Valkoinen suklaa,Confections,"16,25",25,Queen Cozinha,São Paulo,Brazil,19/9/2015
+Queso Cabrales,Dairy Products,21,10,Queen Cozinha,São Paulo,Brazil,19/9/2015
+Røgede sild,Seafood,"9,5",20,LINO-Delicateses,I. de Margarita,Venezuela,20/9/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",21,LINO-Delicateses,I. de Margarita,Venezuela,20/9/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",60,LINO-Delicateses,I. de Margarita,Venezuela,20/9/2015
+Carnarvon Tigers,Seafood,"62,5",8,Santé Gourmet,Stavern,Norway,20/9/2015
+Outback Lager,Beverages,15,15,Die Wandernde Kuh,Stuttgart,Germany,21/9/2015
+Gudbrandsdalsost,Dairy Products,36,20,Die Wandernde Kuh,Stuttgart,Germany,21/9/2015
+Chang,Beverages,19,50,HILARIÓN-Abastos,San Cristóbal,Venezuela,22/9/2015
+Boston Crab Meat,Seafood,"18,4",60,HILARIÓN-Abastos,San Cristóbal,Venezuela,22/9/2015
+Sir Rodney's Scones,Confections,10,30,Simons bistro,København,Denmark,22/9/2015
+Sirop d'érable,Condiments,"28,5",20,Simons bistro,København,Denmark,22/9/2015
+Rössle Sauerkraut,Produce,"45,6",15,Alfreds Futterkiste,Berlin,Germany,25/9/2015
+Chartreuse verte,Beverages,18,21,Alfreds Futterkiste,Berlin,Germany,25/9/2015
+Spegesild,Seafood,12,2,Alfreds Futterkiste,Berlin,Germany,25/9/2015
+Carnarvon Tigers,Seafood,"62,5",4,Wellington Importadora,Resende,Brazil,25/9/2015
+Spegesild,Seafood,12,21,Wellington Importadora,Resende,Brazil,25/9/2015
+Ipoh Coffee,Beverages,46,20,Wellington Importadora,Resende,Brazil,25/9/2015
+Carnarvon Tigers,Seafood,"62,5",20,Hanari Carnes,Rio de Janeiro,Brazil,26/9/2015
+Inlagd Sill,Seafood,19,15,Hanari Carnes,Rio de Janeiro,Brazil,26/9/2015
+Original Frankfurter grüne Soße,Condiments,13,35,Hungry Owl All-Night Grocers,Cork,Ireland,27/9/2015
+Chai,Beverages,18,15,Hungry Owl All-Night Grocers,Cork,Ireland,27/9/2015
+Ikura,Seafood,31,18,Hungry Owl All-Night Grocers,Cork,Ireland,27/9/2015
+Fløtemysost,Dairy Products,"21,5",30,Hungry Owl All-Night Grocers,Cork,Ireland,27/9/2015
+Teatime Chocolate Biscuits,Confections,"9,2",30,Que Delícia,Rio de Janeiro,Brazil,27/9/2015
+Chartreuse verte,Beverages,18,20,Que Delícia,Rio de Janeiro,Brazil,27/9/2015
+Gustaf's Knäckebröd,Grains/Cereals,21,15,Ricardo Adocicados,Rio de Janeiro,Brazil,28/9/2015
+Guaraná Fantástica,Beverages,"4,5",15,Ricardo Adocicados,Rio de Janeiro,Brazil,28/9/2015
+Rössle Sauerkraut,Produce,"45,6",20,Maison Dewey,Bruxelles,Belgium,28/9/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",15,Maison Dewey,Bruxelles,Belgium,28/9/2015
+Tourtière,Meat/Poultry,"7,45",30,Familia Arquibaldo,São Paulo,Brazil,29/9/2015
+Nord-Ost Matjeshering,Seafood,"25,89",30,Familia Arquibaldo,São Paulo,Brazil,29/9/2015
+Perth Pasties,Meat/Poultry,"32,8",25,Familia Arquibaldo,São Paulo,Brazil,29/9/2015
+Gustaf's Knäckebröd,Grains/Cereals,21,20,Die Wandernde Kuh,Stuttgart,Germany,2/10/2015
+Teatime Chocolate Biscuits,Confections,"9,2",12,Die Wandernde Kuh,Stuttgart,Germany,2/10/2015
+Nord-Ost Matjeshering,Seafood,"25,89",2,Gourmet Lanchonetes,Campinas,Brazil,2/10/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,20,Gourmet Lanchonetes,Campinas,Brazil,2/10/2015
+Pavlova,Confections,"17,45",30,Frankenversand,München,Germany,3/10/2015
+Camembert Pierrot,Dairy Products,34,20,Frankenversand,München,Germany,3/10/2015
+Chartreuse verte,Beverages,18,20,Berglunds snabbköp,Luleå,Sweden,3/10/2015
+Tourtière,Meat/Poultry,"7,45",6,Berglunds snabbköp,Luleå,Sweden,3/10/2015
+Chef Anton's Cajun Seasoning,Condiments,22,12,Berglunds snabbköp,Luleå,Sweden,3/10/2015
+Jack's New England Clam Chowder,Seafood,"9,65",20,Reggiani Caseifici,Reggio Emilia,Italy,4/10/2015
+Tofu,Produce,"23,25",3,Great Lakes Food Market,Eugene,USA,5/10/2015
+Gula Malacca,Condiments,"19,45",28,Great Lakes Food Market,Eugene,USA,5/10/2015
+Zaanse koeken,Confections,"9,5",6,Great Lakes Food Market,Eugene,USA,5/10/2015
+Camembert Pierrot,Dairy Products,34,30,Save-a-lot Markets,Boise,USA,5/10/2015
+Genen Shouyu,Condiments,"15,5",50,Save-a-lot Markets,Boise,USA,5/10/2015
+Jack's New England Clam Chowder,Seafood,"9,65",24,Save-a-lot Markets,Boise,USA,5/10/2015
+Spegesild,Seafood,12,45,Save-a-lot Markets,Boise,USA,5/10/2015
+Zaanse koeken,Confections,"9,5",10,Save-a-lot Markets,Boise,USA,5/10/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,45,Save-a-lot Markets,Boise,USA,5/10/2015
+Sir Rodney's Scones,Confections,10,60,QUICK-Stop,Cunewalde,Germany,6/10/2015
+Boston Crab Meat,Seafood,"18,4",70,QUICK-Stop,Cunewalde,Germany,6/10/2015
+Camembert Pierrot,Dairy Products,34,55,QUICK-Stop,Cunewalde,Germany,6/10/2015
+Original Frankfurter grüne Soße,Condiments,13,70,QUICK-Stop,Cunewalde,Germany,6/10/2015
+Boston Crab Meat,Seafood,"18,4",24,Queen Cozinha,São Paulo,Brazil,6/10/2015
+Outback Lager,Beverages,15,40,Queen Cozinha,São Paulo,Brazil,6/10/2015
+Gorgonzola Telino,Dairy Products,"12,5",20,Queen Cozinha,São Paulo,Brazil,6/10/2015
+Sir Rodney's Marmalade,Confections,81,21,Hungry Coyote Import Store,Elgin,USA,9/10/2015
+Chartreuse verte,Beverages,18,3,Hungry Owl All-Night Grocers,Cork,Ireland,10/10/2015
+Escargots de Bourgogne,Seafood,"13,25",49,Hungry Owl All-Night Grocers,Cork,Ireland,10/10/2015
+Scottish Longbreads,Confections,"12,5",10,Lonesome Pine Restaurant,Portland,USA,10/10/2015
+Manjimup Dried Apples,Produce,53,20,Bon app',Marseille,France,11/10/2015
+Boston Crab Meat,Seafood,"18,4",30,Bon app',Marseille,France,11/10/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,30,Bon app',Marseille,France,11/10/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",15,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,11/10/2015
+Ikura,Seafood,31,24,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,11/10/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,12,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal,11/10/2015
+Manjimup Dried Apples,Produce,53,20,Lonesome Pine Restaurant,Portland,USA,12/10/2015
+Raclette Courdavault,Dairy Products,55,1,Lonesome Pine Restaurant,Portland,USA,12/10/2015
+Lakkalikööri,Beverages,18,10,Lonesome Pine Restaurant,Portland,USA,12/10/2015
+Thüringer Rostbratwurst,Meat/Poultry,"123,79",36,Richter Supermarkt,Genève,Switzerland,13/10/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",10,Richter Supermarkt,Genève,Switzerland,13/10/2015
+Gudbrandsdalsost,Dairy Products,36,45,Ernst Handel,Graz,Austria,13/10/2015
+Fløtemysost,Dairy Products,"21,5",14,Ernst Handel,Graz,Austria,13/10/2015
+Gorgonzola Telino,Dairy Products,"12,5",8,Die Wandernde Kuh,Stuttgart,Germany,16/10/2015
+Pâté chinois,Meat/Poultry,24,4,Die Wandernde Kuh,Stuttgart,Germany,16/10/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"33,25",15,Die Wandernde Kuh,Stuttgart,Germany,16/10/2015
+Inlagd Sill,Seafood,19,30,Simons bistro,København,Denmark,16/10/2015
+Rhönbräu Klosterbier,Beverages,"7,75",25,Frankenversand,München,Germany,17/10/2015
+Röd Kaviar,Seafood,15,50,Frankenversand,München,Germany,17/10/2015
+Spegesild,Seafood,12,60,Frankenversand,München,Germany,17/10/2015
+Tunnbröd,Grains/Cereals,9,32,Frankenversand,München,Germany,17/10/2015
+Laughing Lumberjack Lager,Beverages,14,25,Frankenversand,München,Germany,17/10/2015
+Pavlova,Confections,"17,45",10,France restauration,Nantes,France,18/10/2015
+Tarte au sucre,Confections,"49,3",10,France restauration,Nantes,France,18/10/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",12,France restauration,Nantes,France,18/10/2015
+Côte de Blaye,Beverages,"263,5",15,Berglunds snabbköp,Luleå,Sweden,18/10/2015
+Fløtemysost,Dairy Products,"21,5",12,Berglunds snabbköp,Luleå,Sweden,18/10/2015
+Pavlova,Confections,"17,45",3,Wilman Kala,Helsinki,Finland,19/10/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,6,Wilman Kala,Helsinki,Finland,19/10/2015
+Ipoh Coffee,Beverages,46,6,Wilman Kala,Helsinki,Finland,19/10/2015
+Tunnbröd,Grains/Cereals,9,5,Island Trading,Cowes,UK,19/10/2015
+Tofu,Produce,"23,25",30,Frankenversand,München,Germany,20/10/2015
+Perth Pasties,Meat/Poultry,"32,8",10,Frankenversand,München,Germany,20/10/2015
+Escargots de Bourgogne,Seafood,"13,25",30,Frankenversand,München,Germany,20/10/2015
+Gula Malacca,Condiments,"19,45",21,Tortuga Restaurante,México D.F.,Mexico,23/10/2015
+Ikura,Seafood,31,2,Tortuga Restaurante,México D.F.,Mexico,23/10/2015
+Teatime Chocolate Biscuits,Confections,"9,2",7,Tortuga Restaurante,México D.F.,Mexico,23/10/2015
+Geitost,Dairy Products,"2,5",8,Antonio Moreno Taquería,México D.F.,Mexico,23/10/2015
+Gumbär Gummibärchen,Confections,"31,23",30,Antonio Moreno Taquería,México D.F.,Mexico,23/10/2015
+Queso Manchego La Pastora,Dairy Products,38,100,Save-a-lot Markets,Boise,USA,24/10/2015
+Geitost,Dairy Products,"2,5",30,Save-a-lot Markets,Boise,USA,24/10/2015
+Jack's New England Clam Chowder,Seafood,"9,65",120,Save-a-lot Markets,Boise,USA,24/10/2015
+Tourtière,Meat/Poultry,"7,45",30,Save-a-lot Markets,Boise,USA,24/10/2015
+Raclette Courdavault,Dairy Products,55,12,Blondel père et fils,Strasbourg,France,24/10/2015
+Gorgonzola Telino,Dairy Products,"12,5",20,Old World Delicatessen,Anchorage,USA,25/10/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,40,Old World Delicatessen,Anchorage,USA,25/10/2015
+Pavlova,Confections,"17,45",50,Old World Delicatessen,Anchorage,USA,25/10/2015
+Sir Rodney's Scones,Confections,10,12,Great Lakes Food Market,Eugene,USA,26/10/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"33,25",28,Great Lakes Food Market,Eugene,USA,26/10/2015
+Teatime Chocolate Biscuits,Confections,"9,2",30,Great Lakes Food Market,Eugene,USA,26/10/2015
+Geitost,Dairy Products,"2,5",30,Antonio Moreno Taquería,México D.F.,Mexico,26/10/2015
+Louisiana Hot Spiced Okra,Condiments,17,4,Antonio Moreno Taquería,México D.F.,Mexico,26/10/2015
+Rhönbräu Klosterbier,Beverages,"7,75",30,Antonio Moreno Taquería,México D.F.,Mexico,26/10/2015
+Filo Mix,Grains/Cereals,7,9,Du monde entier,Nantes,France,27/10/2015
+Camembert Pierrot,Dairy Products,34,30,Ottilies Käseladen,Köln,Germany,27/10/2015
+Zaanse koeken,Confections,"9,5",40,Ottilies Käseladen,Köln,Germany,27/10/2015
+Boston Crab Meat,Seafood,"18,4",20,Ottilies Käseladen,Köln,Germany,27/10/2015
+Ikura,Seafood,31,20,Gourmet Lanchonetes,Campinas,Brazil,30/10/2015
+Jack's New England Clam Chowder,Seafood,"9,65",4,Gourmet Lanchonetes,Campinas,Brazil,30/10/2015
+Zaanse koeken,Confections,"9,5",15,Gourmet Lanchonetes,Campinas,Brazil,30/10/2015
+Alice Mutton,Meat/Poultry,39,30,Piccolo und mehr,Salzburg,Austria,31/10/2015
+Gumbär Gummibärchen,Confections,"31,23",15,Piccolo und mehr,Salzburg,Austria,31/10/2015
+Thüringer Rostbratwurst,Meat/Poultry,"123,79",10,Hungry Owl All-Night Grocers,Cork,Ireland,31/10/2015
+Inlagd Sill,Seafood,19,6,Hungry Owl All-Night Grocers,Cork,Ireland,31/10/2015
+Mishi Kobe Niku,Meat/Poultry,97,50,Hungry Owl All-Night Grocers,Cork,Ireland,31/10/2015
+Rössle Sauerkraut,Produce,"45,6",60,Vaffeljernet,Århus,Denmark,1/11/2015
+Sasquatch Ale,Beverages,14,14,Vaffeljernet,Århus,Denmark,1/11/2015
+Ikura,Seafood,31,18,Vaffeljernet,Århus,Denmark,1/11/2015
+Chai,Beverages,18,35,Berglunds snabbköp,Luleå,Sweden,1/11/2015
+Original Frankfurter grüne Soße,Condiments,13,30,Hanari Carnes,Rio de Janeiro,Brazil,2/11/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,20,Hanari Carnes,Rio de Janeiro,Brazil,2/11/2015
+Tarte au sucre,Confections,"49,3",48,QUICK-Stop,Cunewalde,Germany,3/11/2015
+Gula Malacca,Condiments,"19,45",24,QUICK-Stop,Cunewalde,Germany,3/11/2015
+Ipoh Coffee,Beverages,46,40,QUICK-Stop,Cunewalde,Germany,3/11/2015
+Chai,Beverages,18,30,QUICK-Stop,Cunewalde,Germany,3/11/2015
+Thüringer Rostbratwurst,Meat/Poultry,"123,79",40,QUICK-Stop,Cunewalde,Germany,3/11/2015
+Vegie-spread,Condiments,"43,9",20,Alfreds Futterkiste,Berlin,Germany,3/11/2015
+Mishi Kobe Niku,Meat/Poultry,97,6,White Clover Markets,Seattle,USA,6/11/2015
+Tourtière,Meat/Poultry,"7,45",60,White Clover Markets,Seattle,USA,6/11/2015
+Gudbrandsdalsost,Dairy Products,36,30,White Clover Markets,Seattle,USA,6/11/2015
+Röd Kaviar,Seafood,15,15,White Clover Markets,Seattle,USA,6/11/2015
+Uncle Bob's Organic Dried Pears,Produce,30,90,QUICK-Stop,Cunewalde,Germany,6/11/2015
+Raclette Courdavault,Dairy Products,55,25,QUICK-Stop,Cunewalde,Germany,6/11/2015
+Outback Lager,Beverages,15,50,QUICK-Stop,Cunewalde,Germany,6/11/2015
+Northwoods Cranberry Sauce,Condiments,40,10,Wilman Kala,Helsinki,Finland,7/11/2015
+Queso Manchego La Pastora,Dairy Products,38,4,Wilman Kala,Helsinki,Finland,7/11/2015
+Guaraná Fantástica,Beverages,"4,5",20,Wilman Kala,Helsinki,Finland,7/11/2015
+Alice Mutton,Meat/Poultry,39,20,White Clover Markets,Seattle,USA,8/11/2015
+Spegesild,Seafood,12,18,White Clover Markets,Seattle,USA,8/11/2015
+Teatime Chocolate Biscuits,Confections,"9,2",7,LINO-Delicateses,I. de Margarita,Venezuela,8/11/2015
+Steeleye Stout,Beverages,18,9,LINO-Delicateses,I. de Margarita,Venezuela,8/11/2015
+Escargots de Bourgogne,Seafood,"13,25",30,LINO-Delicateses,I. de Margarita,Venezuela,8/11/2015
+Outback Lager,Beverages,15,30,LINO-Delicateses,I. de Margarita,Venezuela,8/11/2015
+Thüringer Rostbratwurst,Meat/Poultry,"123,79",12,Ernst Handel,Graz,Austria,9/11/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",65,Ernst Handel,Graz,Austria,9/11/2015
+Alice Mutton,Meat/Poultry,39,8,Ernst Handel,Graz,Austria,9/11/2015
+Queso Cabrales,Dairy Products,21,15,Ernst Handel,Graz,Austria,9/11/2015
+Outback Lager,Beverages,15,8,Ernst Handel,Graz,Austria,9/11/2015
+Zaanse koeken,Confections,"9,5",12,Morgenstern Gesundkost,Leipzig,Germany,9/11/2015
+Chai,Beverages,18,5,Save-a-lot Markets,Boise,USA,10/11/2015
+Sasquatch Ale,Beverages,14,12,Save-a-lot Markets,Boise,USA,10/11/2015
+Scottish Longbreads,Confections,"12,5",40,Save-a-lot Markets,Boise,USA,10/11/2015
+Fløtemysost,Dairy Products,"21,5",60,Save-a-lot Markets,Boise,USA,10/11/2015
+Fløtemysost,Dairy Products,"21,5",20,Hungry Owl All-Night Grocers,Cork,Ireland,13/11/2015
+Lakkalikööri,Beverages,18,35,Hungry Owl All-Night Grocers,Cork,Ireland,13/11/2015
+Raclette Courdavault,Dairy Products,55,42,Hungry Owl All-Night Grocers,Cork,Ireland,13/11/2015
+Aniseed Syrup,Condiments,10,6,Alfreds Futterkiste,Berlin,Germany,13/11/2015
+Lakkalikööri,Beverages,18,15,Alfreds Futterkiste,Berlin,Germany,13/11/2015
+Chang,Beverages,19,5,Folk och fä HB,Bräcke,Sweden,14/11/2015
+Raclette Courdavault,Dairy Products,55,35,Folk och fä HB,Bräcke,Sweden,14/11/2015
+Röd Kaviar,Seafood,15,35,Folk och fä HB,Bräcke,Sweden,14/11/2015
+Guaraná Fantástica,Beverages,"4,5",35,Queen Cozinha,São Paulo,Brazil,14/11/2015
+Chocolade,Confections,"12,75",24,Queen Cozinha,São Paulo,Brazil,14/11/2015
+Chef Anton's Cajun Seasoning,Condiments,22,6,Queen Cozinha,São Paulo,Brazil,14/11/2015
+Mascarpone Fabioli,Dairy Products,32,4,HILARIÓN-Abastos,San Cristóbal,Venezuela,15/11/2015
+Gorgonzola Telino,Dairy Products,"12,5",20,HILARIÓN-Abastos,San Cristóbal,Venezuela,15/11/2015
+Pavlova,Confections,"17,45",20,Old World Delicatessen,Anchorage,USA,16/11/2015
+Ipoh Coffee,Beverages,46,24,Old World Delicatessen,Anchorage,USA,16/11/2015
+Raclette Courdavault,Dairy Products,55,8,Old World Delicatessen,Anchorage,USA,16/11/2015
+Outback Lager,Beverages,15,28,Around the Horn,Colchester,UK,16/11/2015
+Pâté chinois,Meat/Poultry,24,21,Around the Horn,Colchester,UK,16/11/2015
+Ravioli Angelo,Grains/Cereals,"19,5",40,Around the Horn,Colchester,UK,16/11/2015
+Chef Anton's Gumbo Mix,Condiments,"21,35",4,The Big Cheese,Portland,USA,17/11/2015
+Inlagd Sill,Seafood,19,5,The Big Cheese,Portland,USA,17/11/2015
+Northwoods Cranberry Sauce,Condiments,40,40,Gourmet Lanchonetes,Campinas,Brazil,17/11/2015
+Manjimup Dried Apples,Produce,53,28,Gourmet Lanchonetes,Campinas,Brazil,17/11/2015
+Camembert Pierrot,Dairy Products,34,10,Gourmet Lanchonetes,Campinas,Brazil,17/11/2015
+Teatime Chocolate Biscuits,Confections,"9,2",5,Franchi S.p.A.,Torino,Italy,20/11/2015
+Zaanse koeken,Confections,"9,5",5,Franchi S.p.A.,Torino,Italy,20/11/2015
+Jack's New England Clam Chowder,Seafood,"9,65",42,Save-a-lot Markets,Boise,USA,21/11/2015
+Perth Pasties,Meat/Poultry,"32,8",120,Save-a-lot Markets,Boise,USA,21/11/2015
+Teatime Chocolate Biscuits,Confections,"9,2",12,Save-a-lot Markets,Boise,USA,21/11/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,30,Hungry Owl All-Night Grocers,Cork,Ireland,21/11/2015
+Perth Pasties,Meat/Poultry,"32,8",3,Hungry Owl All-Night Grocers,Cork,Ireland,21/11/2015
+Ikura,Seafood,31,18,Save-a-lot Markets,Boise,USA,22/11/2015
+Gumbär Gummibärchen,Confections,"31,23",30,Save-a-lot Markets,Boise,USA,22/11/2015
+Røgede sild,Seafood,"9,5",110,Save-a-lot Markets,Boise,USA,22/11/2015
+Spegesild,Seafood,12,24,Save-a-lot Markets,Boise,USA,22/11/2015
+Chang,Beverages,19,30,Save-a-lot Markets,Boise,USA,22/11/2015
+Escargots de Bourgogne,Seafood,"13,25",12,Save-a-lot Markets,Boise,USA,22/11/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,18,Save-a-lot Markets,Boise,USA,22/11/2015
+Alice Mutton,Meat/Poultry,39,27,Save-a-lot Markets,Boise,USA,22/11/2015
+Zaanse koeken,Confections,"9,5",50,Save-a-lot Markets,Boise,USA,22/11/2015
+Ikura,Seafood,31,21,Bon app',Marseille,France,23/11/2015
+Fløtemysost,Dairy Products,"21,5",30,Bon app',Marseille,France,23/11/2015
+Sir Rodney's Scones,Confections,10,5,Rancho grande,Buenos Aires,Argentina,24/11/2015
+Manjimup Dried Apples,Produce,53,7,Rancho grande,Buenos Aires,Argentina,24/11/2015
+Sirop d'érable,Condiments,"28,5",10,Rancho grande,Buenos Aires,Argentina,24/11/2015
+Sir Rodney's Scones,Confections,10,32,Frankenversand,München,Germany,24/11/2015
+Tourtière,Meat/Poultry,"7,45",15,Frankenversand,München,Germany,24/11/2015
+Gudbrandsdalsost,Dairy Products,36,25,Frankenversand,München,Germany,24/11/2015
+Queso Manchego La Pastora,Dairy Products,38,36,Königlich Essen,Brandenburg,Germany,27/11/2015
+Pavlova,Confections,"17,45",20,Königlich Essen,Brandenburg,Germany,27/11/2015
+Inlagd Sill,Seafood,19,40,Königlich Essen,Brandenburg,Germany,27/11/2015
+Tarte au sucre,Confections,"49,3",20,Königlich Essen,Brandenburg,Germany,27/11/2015
+Carnarvon Tigers,Seafood,"62,5",12,Let's Stop N Shop,San Francisco,USA,27/11/2015
+Nord-Ost Matjeshering,Seafood,"25,89",3,Let's Stop N Shop,San Francisco,USA,27/11/2015
+Tourtière,Meat/Poultry,"7,45",40,Let's Stop N Shop,San Francisco,USA,27/11/2015
+Steeleye Stout,Beverages,18,21,Que Delícia,Rio de Janeiro,Brazil,28/11/2015
+Fløtemysost,Dairy Products,"21,5",8,Que Delícia,Rio de Janeiro,Brazil,28/11/2015
+Gula Malacca,Condiments,"19,45",50,QUICK-Stop,Cunewalde,Germany,29/11/2015
+Rhönbräu Klosterbier,Beverages,"7,75",42,Save-a-lot Markets,Boise,USA,29/11/2015
+Chang,Beverages,19,3,Save-a-lot Markets,Boise,USA,29/11/2015
+Gorgonzola Telino,Dairy Products,"12,5",50,Save-a-lot Markets,Boise,USA,29/11/2015
+Scottish Longbreads,Confections,"12,5",45,Save-a-lot Markets,Boise,USA,29/11/2015
+Gumbär Gummibärchen,Confections,"31,23",15,White Clover Markets,Seattle,USA,30/11/2015
+Sirop d'érable,Condiments,"28,5",5,Mère Paillarde,Montréal,Canada,30/11/2015
+Ikura,Seafood,31,16,Mère Paillarde,Montréal,Canada,30/11/2015
+Jack's New England Clam Chowder,Seafood,"9,65",12,Familia Arquibaldo,São Paulo,Brazil,1/12/2015
+Filo Mix,Grains/Cereals,7,4,Familia Arquibaldo,São Paulo,Brazil,1/12/2015
+Pâté chinois,Meat/Poultry,24,6,Familia Arquibaldo,São Paulo,Brazil,1/12/2015
+Queso Cabrales,Dairy Products,21,5,Eastern Connection,London,UK,4/12/2015
+Chef Anton's Cajun Seasoning,Condiments,22,25,Eastern Connection,London,UK,4/12/2015
+Raclette Courdavault,Dairy Products,55,10,Reggiani Caseifici,Reggio Emilia,Italy,4/12/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,10,Reggiani Caseifici,Reggio Emilia,Italy,4/12/2015
+Alice Mutton,Meat/Poultry,39,20,Reggiani Caseifici,Reggio Emilia,Italy,4/12/2015
+Nord-Ost Matjeshering,Seafood,"25,89",15,Queen Cozinha,São Paulo,Brazil,5/12/2015
+Boston Crab Meat,Seafood,"18,4",6,Queen Cozinha,São Paulo,Brazil,5/12/2015
+Pâté chinois,Meat/Poultry,24,12,Queen Cozinha,São Paulo,Brazil,5/12/2015
+Camembert Pierrot,Dairy Products,34,15,Queen Cozinha,São Paulo,Brazil,5/12/2015
+Sir Rodney's Scones,Confections,10,30,LINO-Delicateses,I. de Margarita,Venezuela,5/12/2015
+Valkoinen suklaa,Confections,"16,25",40,LINO-Delicateses,I. de Margarita,Venezuela,5/12/2015
+Chai,Beverages,18,50,LINO-Delicateses,I. de Margarita,Venezuela,5/12/2015
+Gorgonzola Telino,Dairy Products,"12,5",3,Bon app',Marseille,France,6/12/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",10,Bon app',Marseille,France,6/12/2015
+Pavlova,Confections,"17,45",15,Bon app',Marseille,France,6/12/2015
+Sir Rodney's Scones,Confections,10,40,Chop-suey Chinese,Bern,Switzerland,7/12/2015
+Manjimup Dried Apples,Produce,53,30,Chop-suey Chinese,Bern,Switzerland,7/12/2015
+Lakkalikööri,Beverages,18,20,Bon app',Marseille,France,7/12/2015
+Filo Mix,Grains/Cereals,7,25,Berglunds snabbköp,Luleå,Sweden,8/12/2015
+Tofu,Produce,"23,25",16,Berglunds snabbköp,Luleå,Sweden,8/12/2015
+Rössle Sauerkraut,Produce,"45,6",20,Berglunds snabbköp,Luleå,Sweden,8/12/2015
+Grandma's Boysenberry Spread,Condiments,25,30,Gourmet Lanchonetes,Campinas,Brazil,8/12/2015
+Nord-Ost Matjeshering,Seafood,"25,89",15,Gourmet Lanchonetes,Campinas,Brazil,8/12/2015
+Lakkalikööri,Beverages,18,20,Gourmet Lanchonetes,Campinas,Brazil,8/12/2015
+Sirop d'érable,Condiments,"28,5",20,Let's Stop N Shop,San Francisco,USA,11/12/2015
+Original Frankfurter grüne Soße,Condiments,13,2,Let's Stop N Shop,San Francisco,USA,11/12/2015
+Louisiana Fiery Hot Pepper Sauce,Condiments,"21,05",40,Hungry Owl All-Night Grocers,Cork,Ireland,12/12/2015
+Rhönbräu Klosterbier,Beverages,"7,75",20,Hungry Owl All-Night Grocers,Cork,Ireland,12/12/2015
+Jack's New England Clam Chowder,Seafood,"9,65",12,Vins et alcools Chevalier,Reims,France,12/12/2015
+Konbu,Seafood,6,4,Vins et alcools Chevalier,Reims,France,12/12/2015
+Pavlova,Confections,"17,45",3,Spécialités du monde,Paris,France,13/12/2015
+Inlagd Sill,Seafood,19,6,Vins et alcools Chevalier,Reims,France,13/12/2015
+Filo Mix,Grains/Cereals,7,18,Vins et alcools Chevalier,Reims,France,13/12/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,14,White Clover Markets,Seattle,USA,14/12/2015
+Røgede sild,Seafood,"9,5",40,White Clover Markets,Seattle,USA,14/12/2015
+Steeleye Stout,Beverages,18,35,White Clover Markets,Seattle,USA,14/12/2015
+Rössle Sauerkraut,Produce,"45,6",5,White Clover Markets,Seattle,USA,14/12/2015
+Chang,Beverages,19,15,Around the Horn,Colchester,UK,15/12/2015
+Aniseed Syrup,Condiments,10,20,Bottom-Dollar Markets,Tsawassen,Canada,15/12/2015
+Camembert Pierrot,Dairy Products,34,50,Bottom-Dollar Markets,Tsawassen,Canada,15/12/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",35,Bottom-Dollar Markets,Tsawassen,Canada,15/12/2015
+Spegesild,Seafood,12,28,Around the Horn,Colchester,UK,18/12/2015
+Boston Crab Meat,Seafood,"18,4",50,Vaffeljernet,Århus,Denmark,18/12/2015
+Carnarvon Tigers,Seafood,"62,5",24,QUICK-Stop,Cunewalde,Germany,19/12/2015
+Mozzarella di Giovanni,Dairy Products,"34,8",7,QUICK-Stop,Cunewalde,Germany,19/12/2015
+Gula Malacca,Condiments,"19,45",16,QUICK-Stop,Cunewalde,Germany,19/12/2015
+Raclette Courdavault,Dairy Products,55,45,QUICK-Stop,Cunewalde,Germany,19/12/2015
+Konbu,Seafood,6,6,Chop-suey Chinese,Bern,Switzerland,20/12/2015
+Singaporean Hokkien Fried Mee,Grains/Cereals,14,28,Chop-suey Chinese,Bern,Switzerland,20/12/2015
+Tarte au sucre,Confections,"49,3",9,Chop-suey Chinese,Bern,Switzerland,20/12/2015
+Gudbrandsdalsost,Dairy Products,36,40,Chop-suey Chinese,Bern,Switzerland,20/12/2015
+Gorgonzola Telino,Dairy Products,"12,5",8,Piccolo und mehr,Salzburg,Austria,20/12/2015
+Gudbrandsdalsost,Dairy Products,36,30,Piccolo und mehr,Salzburg,Austria,20/12/2015
+Vegie-spread,Condiments,"43,9",9,Piccolo und mehr,Salzburg,Austria,20/12/2015
+Jack's New England Clam Chowder,Seafood,"9,65",35,Piccolo und mehr,Salzburg,Austria,20/12/2015
+Tunnbröd,Grains/Cereals,9,44,Save-a-lot Markets,Boise,USA,21/12/2015
+Boston Crab Meat,Seafood,"18,4",40,Save-a-lot Markets,Boise,USA,21/12/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,28,Save-a-lot Markets,Boise,USA,21/12/2015
+Lakkalikööri,Beverages,18,10,Island Trading,Cowes,UK,21/12/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,15,Island Trading,Cowes,UK,21/12/2015
+Raclette Courdavault,Dairy Products,55,6,Island Trading,Cowes,UK,21/12/2015
+Raclette Courdavault,Dairy Products,55,25,Wartian Herkku,Oulu,Finland,22/12/2015
+Tofu,Produce,"23,25",5,Wartian Herkku,Oulu,Finland,22/12/2015
+Røgede sild,Seafood,"9,5",40,Wartian Herkku,Oulu,Finland,22/12/2015
+Gumbär Gummibärchen,Confections,"31,23",12,Richter Supermarkt,Genève,Switzerland,25/12/2015
+Nord-Ost Matjeshering,Seafood,"25,89",30,Richter Supermarkt,Genève,Switzerland,25/12/2015
+Valkoinen suklaa,Confections,"16,25",20,Richter Supermarkt,Genève,Switzerland,25/12/2015
+Röd Kaviar,Seafood,15,15,Richter Supermarkt,Genève,Switzerland,25/12/2015
+Chai,Beverages,18,8,North/South,London,UK,25/12/2015
+Gudbrandsdalsost,Dairy Products,36,3,North/South,London,UK,25/12/2015
+Longlife Tofu,Produce,10,5,Franchi S.p.A.,Torino,Italy,26/12/2015
+Røgede sild,Seafood,"9,5",4,Franchi S.p.A.,Torino,Italy,26/12/2015
+Boston Crab Meat,Seafood,"18,4",3,Magazzini Alimentari Riuniti,Bergamo,Italy,26/12/2015
+Gudbrandsdalsost,Dairy Products,36,25,Bon app',Marseille,France,27/12/2015
+Zaanse koeken,Confections,"9,5",30,Bon app',Marseille,France,27/12/2015
+Gnocchi di nonna Alice,Grains/Cereals,38,30,Bon app',Marseille,France,27/12/2015
+Ravioli Angelo,Grains/Cereals,"19,5",14,Bon app',Marseille,France,27/12/2015
+Gudbrandsdalsost,Dairy Products,36,20,Split Rail Beer & Ale,Lander,USA,28/12/2015
+Scottish Longbreads,Confections,"12,5",6,Split Rail Beer & Ale,Lander,USA,28/12/2015
+Carnarvon Tigers,Seafood,"62,5",21,Split Rail Beer & Ale,Lander,USA,28/12/2015
+Inlagd Sill,Seafood,19,20,Split Rail Beer & Ale,Lander,USA,28/12/2015
+Wimmers gute Semmelknödel,Grains/Cereals,"33,25",24,Save-a-lot Markets,Boise,USA,28/12/2015
+Sasquatch Ale,Beverages,14,30,Save-a-lot Markets,Boise,USA,28/12/2015
+Raclette Courdavault,Dairy Products,55,7,Save-a-lot Markets,Boise,USA,28/12/2015
+Tarte au sucre,Confections,"49,3",30,Save-a-lot Markets,Boise,USA,28/12/2015
+Outback Lager,Beverages,15,40,Richter Supermarkt,Genève,Switzerland,29/12/2015
+Filo Mix,Grains/Cereals,7,60,Richter Supermarkt,Genève,Switzerland,29/12/2015
+Gumbär Gummibärchen,Confections,"31,23",20,Richter Supermarkt,Genève,Switzerland,29/12/2015
+Mascarpone Fabioli,Dairy Products,32,10,Ana Trujillo Emparedados y helados,México D.F.,Mexico,29/12/2015
+Uncle Bob's Organic Dried Pears,Produce,30,1,Rattlesnake Canyon Grocery,Albuquerque,USA,5/6/2015
+Grandma's Boysenberry Spread,Condiments,25,1,Rattlesnake Canyon Grocery,Albuquerque,USA,5/6/2015
+Chef Anton's Cajun Seasoning,Condiments,22,1,Rattlesnake Canyon Grocery,Albuquerque,USA,5/6/2015
+Aniseed Syrup,Condiments,10,4,Rattlesnake Canyon Grocery,Albuquerque,USA,5/6/2015
+Chang,Beverages,19,24,Rattlesnake Canyon Grocery,Albuquerque,USA,5/6/2015
+Original Frankfurter grüne Soße,Condiments,13,2,Rattlesnake Canyon Grocery,Albuquerque,USA,5/6/2015
+Tofu,Produce,"23,25",1,Rattlesnake Canyon Grocery,Albuquerque,USA,5/6/2015
